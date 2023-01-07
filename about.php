@@ -1,202 +1,83 @@
 <!DOCTYPE html>
 <html lang="en" class="">
 
-<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>SUNRISE INDIA</title>
-<meta name="description" content=""/>
-<meta name="keywords" content=""/>
-<meta name="Author" content="SUNRISE INDIA" />
-<meta name="Language" content="English" />
-<meta name="robots" content="Index, follow" />
-<meta name="revisit-after" content="4 days" />
-<meta name="generator" content="Dreamweaver">
-<meta name="copyright" content="+91 9412787473  ">
-<meta name="reply-to" content="Shyam@sunriseindiasolar.com  ">
-<meta name="revisit-after" content="4 days" />
-<link rel="canonical" href="https://www.sunriseindiasolar.com  /" />
-<link rel="shortcut icon" href="img/favicon.png">
-<link rel="stylesheet" href="css/icomoon.css"/>
-<link rel="stylesheet" href="css/bootstrap.min.css"/>
-<link rel="stylesheet" href="css/jquery-ui.css"/>
-<link rel="stylesheet" href="css/popup.css"/>
-<link rel="stylesheet" href="css/style.css"/>
+	<title>SUNRISE INDIA</title>
+	<?php
+	include 'head.php';
+	?>
 </head>
+
 <body>
-<div class="topnav">
-<div class="container">
-	<div class="row">
-<div class="col-xs-12 col-sm-12 col-md-6 no-padding"> 
-<div class="contacttopleft">
-<div class="logo">
-<a href="index-2.html"><img src="img/logo.png" class="img-responsive" title="solar" alt="solar"/></a>
-<div class="mobile-menu"></div>
-</div>
-</div>
-</div>
-<div class="col-xs-12 col-sm-12 col-md-6 no-padding"> 
-<div class="contacttopright">
-<a href="tel:09412787473 "><i class='fa fa-phone'></i>+91 9412787473 </a>
-<a href="mailto:Shyam@sunriseindiasolar.com  "><i class='fa fa-envelope'></i> Shyam@sunriseindiasolar.com  </a>
+	<?php
+	include 'header.php';
+	?>
+	<div class="breadcumb">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12">
+					<div class="breadcrumbs">
+						<a href="index.php">Home <i class="fa fa-angle-right"></i></a>
+						<a href="#">About Us</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="about-us-area about-inner">
+		<div class="container">
+			<div class="row">
+				<div class="about-content">
 
-</div>
-</div>
-</div>
-</div>
-</div>
-<header class="header header-sticky">
-<div class="header-bottom menu-center">
-<div class="container">
-<div class="row">
+					<div class="row">
+						<div class="col-lg-12 col-md-12 col-12">
+							<div class="single-about">
+								<div class="section-title">
+									<h1 class="text-center mb-3">About Us</h1>
 
-<div class="col-xs-12 col-sm-12 col-md-12"> 
-<nav class="main-menu">
-<ul>
-<li><a href="index-2.html">Home</a></li>
-<li><a href="about.html">About Us</a></li>
-<li><a href="solar-panel.html">Solar Panel</a></li>
-<li><a href="solar-inverters.html">Solar Inverters</a></li>
-<li><a href="solar-batteries.html">Solar Batteries</a></li>
-<li><a href="solar-controllers.html">Solar Controllers</a></li>
-<li><a href="gallery.html">Gallery</a></li>
-<li><a href="site.html">Site Project</a></li>
-<li><a href="contact-us.html">Contact Us</a></li>
-<!--
-<li class="has-dropdown"><a href="#">Others</a>
-<ul class="sub-menu">
-<li><a href="#">Other</a></li>
-</ul>
-</li>
--->
-</ul>
-</nav>
-</div>
-</div>
-</div>
-</div>
-</header><div class="breadcumb">
-<div class="container">
-<div class="row">
-<div class="col-lg-12">
-<div class="breadcrumbs">
-<a href="index-2.html">Home <i class="fa fa-angle-right"></i></a>
- <a href="#">About Us</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="about-us-area about-inner">
-<div class="container">
-<div class="row">
-<div class="about-content">
+								</div>
+								<ul>
+									<li>Sunrise India is Registered under Indian Partnership Act-1932. Sunrise india is Empanelled Vender with Bihar Renewable Energy Development Agency and Jharkhand Renewable Energy Development Agency under the Rooftop Subsidy Program. Also, <b>SUNRISE INDIA</b> Also We are Trusted Vender by Top Company of india like L&T Group, Expression Group, Husk Power, Power one , R. N. Jwellers and much more</li>
+									<li><b>Sunrise India </b> provides technical consultancy and EPC solution to establish solar power plants which includes – Engineering (Design), Procurement, Construction and operation of plant. We have skilled and specialised team to work as system integrator. We offer solar power project range from small domestic KWs plant to in MW capacity. These include both OFF-Grid (battery backed) and ON-Grid (Net Metered) systems</li>
+									<li><b>Sunrise India are authorised Vender of most of the Recognise compnay of India Like L&T Group, Expression Group, Husk Power, Power one , R. N. Jwellers and much more. </li>
+									<li><b>Sunrise India- Bringing Renewable Energy to People</b> All over the world, energy conversion or power generation relies heavily on conventional fossil fuels such as coal, oil and natural gas. All of these conventional fuels are non-renewable and finite on the planet, and these fuel treasures are in short supply every day, causing even more detrimental environmental impacts.Future energy demands The hope of satisfying humanity lies in renewable energy sources.</li>
+									<li>Our aim & commitment to make proud producer of your own electricity, enjoy tax benefits and reduce
+										your electricity bills with our Solar Panels. </li>
+									<li> Our Company Mission - We are an emerging company in India for the implementation of
+										alternative energy systems. We accomplish this by virtue of our team
+										of the most experienced and highly skilled employees. Our
+										professional workforce focuses on the design and construction of each
+										individual project – right down to the smallest of details.
+										Our Mission is to Lead the energy transition by providing innovative
+										solutions to our customers. Build a culture of excellence by efficient
+										and safe execution of all our projects. We must maintain the highest
+										standards of quality and sustainability and act responsibly at all times.</li>
+									<li>Our CompanyVision - Our Vision is to meet the energy demands, provide affordable solar
+										solutions and promote sustainability by harnessing solar energy.
+										Our planet is our legacy, and there’s only one. The extensive use of
+										fossil fuel energy has caused irreversible damage. The more we wait,
+										the worse it will get. California’s Central Coast receives a practically
+										unlimited amount of sunlight- why wouldn’t we harness it to do our part
+										to protect the environment? Together, let’s choose a more responsible
+										way to power our lives: Let’s go solar.
+									</li>
+									<li>Our team at Sunrise India follows a unique approach to offer maximum benefit to our customers. Our emphasis on quality and excellence has allowed us to offer customized solutions to our clients ensuring higher return on investment. Through continuous R&D efforts, we at Sunrise India are able to offer customized solutions that are tailored to local conditions.</li>
 
-<div class="row">
-<div class="col-lg-12 col-md-12 col-12">
-<div class="single-about">
-	<div class="section-title">
-<h1 class="text-center mb-3">About Us</h1>
+								</ul>
+							</div>
+						</div>
 
-</div>
-<ul>
-	<li>Sunrise India is Registered under Indian Partnership Act-1932. Sunrise india is Empanelled Vender with Bihar Renewable Energy Development Agency and Jharkhand Renewable Energy Development Agency under the Rooftop Subsidy Program. Also, <b>SUNRISE INDIA</b> Also We are Trusted Vender by Top Company of india like L&T Group, Expression Group, Husk Power, Power one , R. N. Jwellers and much more</li>
-	<li><b>Sunrise India </b> provides technical consultancy and EPC solution to establish solar power plants which includes – Engineering (Design), Procurement, Construction and operation of plant. We have skilled and specialised team to work as   system integrator. We offer solar power project range from small domestic KWs plant to in MW capacity. These include both OFF-Grid (battery backed) and ON-Grid (Net Metered) systems</li>
-	<li><b>Sunrise India are authorised  Vender of most of the Recognise compnay of India Like  L&T Group, Expression Group, Husk Power, Power one , R. N. Jwellers and much more. </li>
-	<li><b>Sunrise India- Bringing Renewable Energy to People</b> All over the world, energy conversion or power generation relies heavily on conventional fossil fuels such as coal, oil and natural gas. All of these conventional fuels are non-renewable and finite on the planet, and these fuel treasures are in short supply every day, causing even more detrimental environmental impacts.Future energy demands The hope of satisfying humanity lies in renewable energy sources.</li>
-	<li>Our aim & commitment to make  proud producer of your own electricity, enjoy tax benefits and reduce
-		your electricity bills with our Solar Panels.  </li>
-	<li> Our Company Mission - We are an emerging company in India for the implementation of
-		alternative energy systems. We accomplish this by virtue of our team
-		of the most experienced and highly skilled employees. Our
-		professional workforce focuses on the design and construction of each
-		individual project – right down to the smallest of details.
-		Our Mission is to Lead the energy transition by providing innovative
-		solutions to our customers. Build a culture of excellence by efficient
-		and safe execution of all our projects. We must maintain the highest
-		standards of quality and sustainability and act responsibly at all times.</li>
-	<li>Our CompanyVision - Our Vision is to meet the energy demands, provide affordable solar
-		solutions and promote sustainability by harnessing solar energy.
-		Our planet is our legacy, and there’s only one. The extensive use of
-		fossil fuel energy has caused irreversible damage. The more we wait,
-		the worse it will get. California’s Central Coast receives a practically
-		unlimited amount of sunlight- why wouldn’t we harness it to do our part
-		to protect the environment? Together, let’s choose a more responsible
-		way to power our lives: Let’s go solar.
-		 </li>
-	<li>Our team at Sunrise India follows a unique approach to offer maximum benefit to our customers. Our emphasis on quality and excellence has allowed us to offer customized solutions to our clients ensuring higher return on investment. Through continuous R&D efforts, we at Sunrise India are able to offer customized solutions that are tailored to local conditions.</li>
-	
-</ul>
-</div>
-</div>
-
-</div>
-</div>
+					</div>
+				</div>
 
 
-</div>
-</div>
-</div>
+			</div>
+		</div>
+	</div>
 
-<div class="pre-footer">
-<div class="container">
-<div class="row">
-<div class="col-md-4">
-<div class="footer-contact">
-<p><strong>Contact Us</strong></p>
-<ul>
-<li><i class="fa fa-envelope"></i> <a href="mailtoinfo%40satwiksungreencorporation.html">Shyam@sunriseindiasolar.com  </a></li>
-<li><i class="fa fa-phone"></i> <a href="tel:09412787473 ">+91 9412787473 </a></li>
-<li><i class="fa fa-map-marker"></i> <span>105, Solar Arena, Front OF BHAGWATI KACHORI, BAJRANG NAGAR,KOTA(RAJ.). 324001</span></li>
-</ul>
-</div>
-</div>
-<div class="col-md-4">
-<div class="footer-center">
-<p class="copyright"> Copyright © 2019 All Rights Reserved By <a href="https://www.sunriseindiasolar.com  /">SUNRISE INDIA</a></p>
-<div class="socials clearfix">
-<div class="icon"><a href="https://www.facebook.com/"><i class='fa fa-facebook'></i></a></div>
-<div class="icon"><a href="https://www.instagram.com/"><i class='fa fa-instagram'></i></a></div>
-<div class="icon"><a href="https://www.twitter.com/"><i class='fa fa-twitter'></i></a></div>
-<div class="icon"><a href="https://youtube.com/"><i class='fa fa-youtube'></i></a></div>
-</div>
-</div>
-</div>
-<div class="col-md-4">
-<div class="footer-right">
-<p><strong>Quick Contact</strong></p>
-<ul class="menu">
-<li><a href="#">Solar Panel</a></li>
-<li><a href="#">Solar Inverters</a></li>
-<li><a href="#">Solar Batteries</a></li>
-<li><a href="#">Solar Controllers</a></li>
-</ul>
-</div>
-</div>
-
-</div>
-</div>
-</div>
-
-<div class="footer-bottom"><p>Designed & Developed By <a href="https://www.nationconnect.in/"> Nation Connect</a></p></div>
-<div class="mob-foot-cta">
-<div class="col-md-6"><a href="tel:09412787473 " target="_blank"><i class="fa fa-phone"></i> Call Now</a></div>
-<div class="col-md-6"><a href="https://api.whatsapp.com/send?phone=919412787473 " target="_blank"><i class="fa fa-whatsapp"></i> Whatsapp</a></div>
-</div>
-
-<ul class="cta">
-<li><a href="tel:09412787473 "><span class="fa fa-phone"></span>+91 9412787473 </a></li>
-<li><a href="https://api.whatsapp.com/send?phone=919412787473 "><span class="fa fa-whatsapp"></span>+91 9412787473 </a></li>
-</ul>
-<script src="js/jquery-1.12.4.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script src="js/owl.carousel.js"></script>
-<script src="js/jquery-ui.js"></script>
-<script src="js/fancybox.js"></script>
-<script src="js/main.js"></script>
+	<?php
+	include 'footer.php';
+	include 'foot.php';
+	?>
 </body>
-
-
 </html>
