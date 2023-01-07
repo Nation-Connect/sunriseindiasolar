@@ -46,11 +46,12 @@
 								<div class="col-lg-3 mb-4">
 									<div class="gallery-item"><a data-lightgallery="item" href="img/site1.jpg"><img
 												src="img/site1.jpg"></a></div>
-												<p>eer</p>
+												<p class="project-title">eer</p>
 								</div>
 								<div class="col-lg-3 mb-4">
 									<div class="gallery-item"><a data-lightgallery="item" href="img/site2.jpg"><img
 												src="img/site2.jpg"></a></div>
+												<p class="project-title">eer</p>
 								</div>
 								<div class="col-lg-3 mb-4">
 									<div class="gallery-item"><a data-lightgallery="item" href="img/site3.jpg"><img
@@ -93,7 +94,7 @@
 			<div class="row">
 				<div class="col-md-4">
 					<div class="footer-contact">
-						<p><strong>Contact Us</strong></p>
+						h5><strong>Contact Us</strong></p>
 						<ul>
 							<li><i class="fa fa-envelope"></i> <a
 									href="mailtoinfo%40satwiksungreencorporation.html">info@satwiksungreencorporation.com</a>
