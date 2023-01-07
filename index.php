@@ -196,7 +196,7 @@
 </div>
 
 </div>
- </div>
+</div>
 </div>
 </div>
 
@@ -210,9 +210,9 @@
 <div class="col-md-9">
 	
 <div class="popular">
-<div class="item"><div class="box"><a href="#"><img src="img/inverter1.jpg" title="" alt="" ><div class="detail">Solar Battery 10 Pc</a></div></div></div>
-<div class="item"><div class="box"><a href="#"><img src="img/inverter2.jpg" title="" alt="" ><div class="detail">Solar Charged Torch 10 Pc</a></div></div></div>
-<div class="item"><div class="box"><a href="#"><img src="img/battery3.jpg" title="" alt="" ><div class="detail">Three Panel Solar Sheets 10 Pc</a></div></div></div>
+<div class="item"><div class="box"><a href="#"><img src="img/inverter1.jpg" title="" alt="" ><div class="detail">Solar Panal</a></div></div></div>
+<div class="item"><div class="box"><a href="#"><img src="img/inverter2.jpg" title="" alt="" ><div class="detail">Solar Steet Light</a></div></div></div>
+<div class="item"><div class="box"><a href="#"><img src="img/battery3.jpg" title="" alt="" ><div class="detail">Solar </a></div></div></div>
 <div class="item"><div class="box"><a href="#"><img src="img/controller2.jpg" title="" alt="" ><div class="detail">Solar Power Panel 10 Pc</a></div></div></div>
 <div class="item"><div class="box"><a href="#"><img src="img/battery1.jpg" title="" alt="" ><div class="detail">Solar Power Charger</a></div></div></div>
 <div class="item"><div class="box"><a href="#"><img src="img/battery2.jpg" title="" alt="" ><div class="detail">Solar Lantern 10 Pc</a></div></div></div>
@@ -377,18 +377,18 @@
 <p> My blessing and best wishes are always with you and your company.
 	i am fully satisfied with your rooftop solar install at our home.</p>
 <img src="img/user1.jpg">
-<span class="name">Abhishek Kumar</span> 
+<span class="name">Shivani Roperia</span> 
 </div>
 <div class="testimonial-box">
 <p> Highly appriciable work done By Sunrise India . all engineers and Technicians are
 	 unique blend of competence with huminity. I higly recommend this team. </p>
 <img src="img/user1.jpg">
-<span class="name">Sunil Kumar</span> 
+<span class="name">usha kaler</span> 
 </div>
 <div class="testimonial-box">
 <p>We Congratulate the entire team of sunrise india for their Excellent work done.</p>
 <img src="img/user1.jpg">
-<span class="name">nitika Kumari</span>
+<span class="name">nitika dalal</span>
 </div>
 </div>
 </div>
