@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html lang="en" class="">
 
-<!-- Mirrored from www.satwiksungreen.com/gallery.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 03 Jan 2023 15:30:06 GMT -->
-<!-- Added by HTTrack -->
-<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
-
 <head>
 	<title>SUNRISE INDIA</title>
 	<?php
@@ -13,7 +9,7 @@
 </head>
 
 <body>
-<?php
+	<?php
 	include 'header.php';
 	?>
 	<div class="breadcumb">
@@ -85,4 +81,5 @@
 	include 'foot.php';
 	?>
 </body>
+
 </html>

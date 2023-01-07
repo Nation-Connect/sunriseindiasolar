@@ -34,7 +34,7 @@
                                 <li><a href="solar-batteries.html">Solar Batteries</a></li>
                                 <li><a href="solar-controllers.html">Solar Controllers</a></li>
                                 <li><a href="gallery.php">Gallery</a></li>
-                                <li><a href="site.html">Site Project</a></li>
+                                <li><a href="project.php">Site Project</a></li>
                                 <li><a href="contact.php">Contact Us</a></li>
                                 <!--
 <li class="has-dropdown"><a href="#">Others</a>
