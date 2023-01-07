@@ -102,23 +102,32 @@
 
 </div>
 <ul>
-	<li>Our company is promoted by group of Industry professionals with a combined experience of more than 05 years to propagate green energy in India. Focus of <b>SUNRISE INDIA</b> to encourage and aware the people of domestic, Institutional, Industrial field to shift towards self-generated solar electrical power, from the traditional power supply, being generated in Thermal Power plants using fuel as Coal / Gas etc. Coal / Gas burning for power generation major reason of environment pollution. We appreciate initiative toward switching on clean & green energy i.esolar energy and participation for achieving goal of <b>“Swatch Bharat Mission”as a mission of our honourable Prime Minister</b>. This is in line with our company tag line and vision “Save Environment Save Humanity, Keep Nation Clean & Green”. From the data available on various source it reveals that  solar power plants electricity generation reducing  CO2(Carbon-di Oxide) to very great extent in environment due to less burning of coal /gas/diesel etc as fuel.</li>
-	<li><b>Satwik Sungreen Corporation (SSC)</b> provides technical consultancy and EPC solution to establish solar power plants which includes – Engineering (Design), Procurement, Construction and operation of plant. We have skilled and specialised team to work as   system integrator. We offer solar power project range from small domestic KWs plant to in MW capacity. These include both OFF-Grid (battery backed) and ON-Grid (Net Metered) systems</li>
-	<li><b>We are authorised distributor & Solar Solution Partner of M/s Luminous Power Technology Pvt Ltd</b> and deal in direct trade of M/s luminous products i.e. Solar PV panels, solar home & industrial UPS/inverters, solar batteries, solar lighting system. PV modules started from 40Wp to 370Wp both type i.e Polycrystalline and Mono-crystalline / Mono PERC. These  modules are composed of high efficiency solar cells, low iron contents, tempered glass, premium quality encapsulates like EVA, High quality back sheet and IP65 junction with by-pass diode. We also trade in all Balance of system (BOS) material i.e high strength structure, branded inverters and reliable cables, earthing material, switchgears (ACDB / DCDB) with SPD etc. We use Modules of BIS / MNRE approved and certified by IEC, UL, and CE& CEC.</li>
-	<li><b>Satwik Sungreen Corporation- Bringing Power to People</b> Across the world, energy conversion or power generation is mostly dependent on conventional fossil fuel i.e. coal, oil, and natural gas. All these conventional fuels are non-renewable, and limited in earth, on every day, the treasure of these fuels are becoming empty, and above that causing numerous harmful environmental effects. So the hope to cater the future energy requirement and healthy humankind, the option is Renewable Energy Sources i.e solar, wind and hydropower etc., out of these the most generous and powerful sources is SUN LIGHT i.e Solar Energy.  </li>
-	<li>Toward achieving objective of self sufficiency in Solar Energy field and to provide complete end-users solution for domestic & commercial use of solar energy, we at SSGC, welcome and invites all clean and green energy lovers to become part  for mission of  “Energize life with sunshine”.</li>
-	<li>Our aim & commitment to make self-sufficient of every household, office, factory/industry, utilities and common areas, to fulfil their power / energy needs with their own solar power source. Our objective & mission is to design, develop and provide reliable solar energy systems at a most efficient & affordable rate. </li>
-	<li>At SSC, We focus on innovative approach to commercialize solar solutions. Our highly skilled team offers in-house knowledge for design and erection of off-grid and grid connected solar power systems. We feel pride by seeing happy faces of our valuable customers toward performance of our installed solar systems. Our after sale service team feels joy to attend every minute complain, proving spares parts and educate end-users for correct use and proper maintenance of system. SUNRISE INDIA (SSC) is a solar venture focused on OFF-GRID and ON-GRID applications. We want to bring energy independence to people where they would have their own power source when they need it. Our mission is to provide reliable energy source at an affordable cost. </li>
-	<li>Our team at SSC follows a unique approach to offer maximum benefit to our customers. Our emphasis on quality and excellence has allowed us to offer customized solutions to our clients ensuring higher return on investment. Through continuous R&D efforts, we at SSC are able to offer customized solutions that are tailored to local conditions. The following key components form the basis of our unique approach.</li>
-	<ul class="pl-3">
-		<li>Data collection </li>
-		<li>System Analysis </li>
-		<li>Feasibility Study </li>
-		<li>Shadow Analysis </li>
-		<li>Customized Design </li>
-		<li>Implementation Plan </li>
-		<li>Continuous Evaluation </li>
-	</ul>
+	<li>Sunrise India is Registered under Indian Partnership Act-1932. Sunrise india is Empanelled Vender with Bihar Renewable Energy Development Agency and Jharkhand Renewable Energy Development Agency under the Rooftop Subsidy Program. Also, <b>SUNRISE INDIA</b> Also We are Trusted Vender by Top Company of india like L&T Group, Expression Group, Husk Power, Power one , R. N. Jwellers and much more</li>
+	<li><b>Sunrise India </b> provides technical consultancy and EPC solution to establish solar power plants which includes – Engineering (Design), Procurement, Construction and operation of plant. We have skilled and specialised team to work as   system integrator. We offer solar power project range from small domestic KWs plant to in MW capacity. These include both OFF-Grid (battery backed) and ON-Grid (Net Metered) systems</li>
+	<li><b>Sunrise India are authorised  Vender of most of the Recognise compnay of India Like  L&T Group, Expression Group, Husk Power, Power one , R. N. Jwellers and much more. </li>
+	<li><b>Sunrise India- Bringing Renewable Energy to People</b> All over the world, energy conversion or power generation relies heavily on conventional fossil fuels such as coal, oil and natural gas. All of these conventional fuels are non-renewable and finite on the planet, and these fuel treasures are in short supply every day, causing even more detrimental environmental impacts.Future energy demands The hope of satisfying humanity lies in renewable energy sources.</li>
+	<li>Our aim & commitment to make  proud producer of your own electricity, enjoy tax benefits and reduce
+		your electricity bills with our Solar Panels.  </li>
+	<li> Our Company Mission - We are an emerging company in India for the implementation of
+		alternative energy systems. We accomplish this by virtue of our team
+		of the most experienced and highly skilled employees. Our
+		professional workforce focuses on the design and construction of each
+		individual project – right down to the smallest of details.
+		Our Mission is to Lead the energy transition by providing innovative
+		solutions to our customers. Build a culture of excellence by efficient
+		and safe execution of all our projects. We must maintain the highest
+		standards of quality and sustainability and act responsibly at all times.</li>
+	<li>Our CompanyVision - Our Vision is to meet the energy demands, provide affordable solar
+		solutions and promote sustainability by harnessing solar energy.
+		Our planet is our legacy, and there’s only one. The extensive use of
+		fossil fuel energy has caused irreversible damage. The more we wait,
+		the worse it will get. California’s Central Coast receives a practically
+		unlimited amount of sunlight- why wouldn’t we harness it to do our part
+		to protect the environment? Together, let’s choose a more responsible
+		way to power our lives: Let’s go solar.
+		 </li>
+	<li>Our team at Sunrise India follows a unique approach to offer maximum benefit to our customers. Our emphasis on quality and excellence has allowed us to offer customized solutions to our clients ensuring higher return on investment. Through continuous R&D efforts, we at Sunrise India are able to offer customized solutions that are tailored to local conditions.</li>
+	
 </ul>
 </div>
 </div>
