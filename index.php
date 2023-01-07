@@ -87,7 +87,7 @@
         </div>
     </div>
 
-    <div class="our-service">
+    <!-- <div class="our-service">
         <div class="container">
             <div class="service-box">
 
@@ -132,7 +132,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <div class="popular-product">
         <div class="container-fluid">
@@ -356,6 +356,38 @@
                         </div>
                     </div>
                 </div>
+            </div>
+        </div>
+    </div>
+    <div class="space-bottom">
+        <div class="container"><span class="sec-subtitle text-decoration-underline mb-4 pb-lg-3 text-center">Some of Our Valuable Partners
+            </span>
+            <div class="row vs-carousel wow fadeInUp" data-wow-delay="0.4s" data-slide-show="5" data-lg-slide-show="4" data-md-slide-show="3" data-sm-slide-show="2">
+                <div class="col-xl-4">
+                    <div class="brand-style1"><img src="assets/img/brand/brand-1-1.png" alt="brand"></div>
+                </div>
+                <div class="col-xl-4">
+                    <div class="brand-style1"><img src="assets/img/brand/brand-1-2.png" alt="brand"></div>
+                </div>
+                <div class="col-xl-4">
+                    <div class="brand-style1"><img src="assets/img/brand/brand-1-3.png" alt="brand"></div>
+                </div>
+                <div class="col-xl-4">
+                    <div class="brand-style1"><img src="assets/img/brand/brand-1-4.png" alt="brand"></div>
+                </div>
+                <div class="col-xl-4">
+                    <div class="brand-style1"><img src="assets/img/brand/brand-1-5.png" alt="brand"></div>
+                </div>
+                <div class="col-xl-4">
+                    <div class="brand-style1"><img src="assets/img/brand/brand-1-6.png" alt="brand"></div>
+                </div>
+                <div class="col-xl-4">
+                    <div class="brand-style1"><img src="assets/img/brand/brand-1-7.png" alt="brand"></div>
+                </div>
+                <div class="col-xl-4">
+                    <div class="brand-style1"><img src="assets/img/brand/brand-1-8.png" alt="brand"></div>
+                </div>
+
             </div>
         </div>
     </div>

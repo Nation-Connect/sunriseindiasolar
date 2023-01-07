@@ -73,7 +73,7 @@
             <div class="widget">
                 <div class="vs-widget-about">
                     <div class="footer-logo"><a href="index.html"><img src="assets/img/logo.svg" alt="Sunrise India"></a></div>
-                    <p class="footer-text">We are a leading Service Provider of Solar Grid, Solar Water Heating and Solar Power Solutions provider. We aim to build a green future for our global community by utilising the energy of the sun. Write to us at  Shyam@sunriseindiasolar.com</p>
+                    <p class="footer-text">We are a leading Service Provider of Solar Grid, Solar Water Heating and Solar Power Solutions provider. We aim to build a green future for our global community by utilising the energy of the sun. Write to us at Shyam@sunriseindiasolar.com</p>
                     <div class="info-social style2"><a href="#"><i class="fab fa-facebook-f"></i></a> <a href="#"><i class="fab fa-twitter"></i></a> <a href="#"><i class="fab fa-linkedin-in"></i></a> <a href="#"><i class="fab fa-google"></i></a></div>
                 </div>
             </div>
@@ -110,7 +110,7 @@
             <div class="container">
                 <div class="row justify-content-between align-items-center">
                     <div class="col d-none d-lg-block">
-                        <p class="header-top-text"><span class="shape"></span>Renewable energy  Solutions help you reduce your electrici bills</p>
+                        <p class="header-top-text"><span class="shape"></span>Renewable energy Solutions help you reduce your electrici bills</p>
                     </div>
                     <div class="col-auto col-lg-2">
                         <div class="header-social"><a href="#"><i class="fab fa-facebook-f"></i></a> <a href="#"><i class="fab fa-twitter"></i></a> <a href="#"><i class="fab fa-linkedin-in"></i></a></div>
@@ -245,7 +245,7 @@
             <div class="ls-slide" data-ls="duration:12000; transition2d:5; kenburnsscale:1.2;"><img width="1920" height="890" src="assets/img/hero/hero-bg-2-2.jpg" class="ls-bg" alt="hero bg"> <img width="273" height="177" src="assets/img/hero/hero-shape-2-1.png" class="ls-l ls-hide-phone ls-img-layer" alt="heroo-shape" style="font-size:36px; color:#000; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; top:650px; left:1160px;" data-ls="offsetyin:bottom; durationin:1500; delayin:1600; easingin:easeOutQuint; offsetyout:bottom; easingout:easeOutQuint;">
                 <div style="font-size:36px; color:#000; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; width:1220px; height:210px; line-height:1px; background-color:#47AF34; left:1200px; top:576px;" class="ls-l ls-hide-phone ls-text-layer" data-ls="offsetxin:right; durationin:1500; delayin:1500; easingin:easeOutQuint; offsetxout:right; easingout:easeOutQuint;"></div>
                 <h1 style="font-size:70px; text-align:left; font-style:normal; text-decoration:none; text-transform:none; background-position:0% 0%; background-repeat:no-repeat; color:#ffffff; font-family:Epilogue; left:312px; top:305px; letter-spacing:-0.5px; font-weight:700;" class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer" data-ls="offsetxin:-100; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500;">
-Renewable Energy</h1>
+                    Renewable Energy</h1>
                 <h1 style="font-size:70px; text-align:left; font-style:normal; text-decoration:none; text-transform:none; background-position:0% 0%; background-repeat:no-repeat; color:#ffffff; font-family:Epilogue; left:312px; top:387px; letter-spacing:-0.5px; font-weight:700;" class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer" data-ls="offsetxin:-100; durationin:1500; delayin:400; easingin:easeOutQuint; offsetxout:-100; durationout:1500;">Financial Savings</h1>
                 <div style="font-size:20px; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; color:#ffffff; font-family:Epilogue; left:315px; top:485px; line-height:32px;" class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer" data-ls="offsetxin:-80; delayin:900; easingin:easeOutQuint; offsetxout:-80; easingout:easeOutQuint;">Be a proud producer of your own electricity, enjoy tax benefits and reduce<br>your electricity bills with our Solar Panels..</div>
                 <div style="font-size:36px; color:#000; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; left:315px; top:600px;" class="ls-l ls-hide-tablet ls-hide-phone ls-html-layer" data-ls="offsetxin:-100; delayin:1100; easingin:easeOutQuint; offsetxout:-100; easingout:easeOutQuint; bgcolorout:transparent; colorout:transparent;">
@@ -328,7 +328,7 @@ Renewable Energy</h1>
                                     <li>Solar Street Lighting</li>
                                     <li></li>
                                 </ul>
-                        </div>
+                            </div>
                         </div>
                         <div class="shape-dotted"></div>
                     </div>
@@ -342,16 +342,16 @@ Renewable Energy</h1>
                         <div class="service-img"><img src="assets/img/service/sr-2-2.jpg" alt="service thumbnail"></div>
                         <div class="service-body">
                             <p class="service-text">Sunrise India continuous endeavour in delivering the most technologically advanced Wind Turbine Generators and makeing steps toward Renewable source of Energy and reducing carbon &nbsp </p>
-                             <div class="service-list">
+                            <div class="service-list">
                                 <ul class="list-unstyled">
                                     <li></li>
-                                    <li></li> 
+                                    <li></li>
                                     <li></li>
                                 </ul>
                             </div>
 
                         </div>
-                        
+
                         <div class="shape-dotted"></div>
                     </div>
                 </div>
@@ -382,7 +382,7 @@ Renewable Energy</h1>
                         </div>
                         <div class="service-img"><img src="assets/img/service/sr-2-4.jpg" alt="service thumbnail"></div>
                         <div class="service-body">
-                            <p class="service-text">  we at sunrise India help you to become your own producer of electricity by Solar Resources</p>
+                            <p class="service-text"> we at sunrise India help you to become your own producer of electricity by Solar Resources</p>
                             <div class="service-list">
                                 <ul class="list-unstyled">
                                     <li>On Grid</li>
@@ -412,7 +412,7 @@ Renewable Energy</h1>
                 <div class="col-xl-6 align-self-center wow fadeInUp" data-wow-delay="0.4s">
                     <div class="about-box1"><span class="sec-subtitle">About Our Company</span>
                         <h2 class="sec-title h1">Sunrise India</h2>
-                        <p class="about-text">Sunrise India is Registered under Indian Partnership Act-1932. Sunrise india is Empanelled Vender with Bihar Renewable Energy Development Agency and Jharkhand Renewable Energy Development Agency under the Rooftop Subsidy Program. Also We are Trusted Vender by Top Company of india like  L&T Group, Expression Group, Husk Power, Power one , R. N. Jwellers and much more.. .  Our Organization has been entrusted by Govt. Organizations as  Bihar Renewable Energy Development Agency and Jharkhand Renewable Energy Development Agency for a wide range of Solar Grid, Solar Pump , wind turbines , Solar Heater,  Solar Photo voltaic Sector & Industrial Electronics Sector in Bihar & Jharkhand .</p>
+                        <p class="about-text">Sunrise India is Registered under Indian Partnership Act-1932. Sunrise india is Empanelled Vender with Bihar Renewable Energy Development Agency and Jharkhand Renewable Energy Development Agency under the Rooftop Subsidy Program. Also We are Trusted Vender by Top Company of india like L&T Group, Expression Group, Husk Power, Power one , R. N. Jwellers and much more.. . Our Organization has been entrusted by Govt. Organizations as Bihar Renewable Energy Development Agency and Jharkhand Renewable Energy Development Agency for a wide range of Solar Grid, Solar Pump , wind turbines , Solar Heater, Solar Photo voltaic Sector & Industrial Electronics Sector in Bihar & Jharkhand .</p>
                         <div class="progress-style1">
                             <div class="circle-progress" data-value="0.85"><span class="progress-value"></span></div>
                             <div class="media-body">
@@ -434,7 +434,7 @@ Renewable Energy</h1>
     </section>
     <div class="space-bottom">
         <div class="container"><span class="sec-subtitle text-decoration-underline mb-4 pb-lg-3 text-center">Some of Our Valuable Partners
-</span>
+            </span>
             <div class="row vs-carousel wow fadeInUp" data-wow-delay="0.4s" data-slide-show="5" data-lg-slide-show="4" data-md-slide-show="3" data-sm-slide-show="2">
                 <div class="col-xl-4">
                     <div class="brand-style1"><img src="assets/img/brand/brand-1-1.png" alt="brand"></div>
@@ -460,7 +460,7 @@ Renewable Energy</h1>
                 <div class="col-xl-4">
                     <div class="brand-style1"><img src="assets/img/brand/brand-1-8.png" alt="brand"></div>
                 </div>
-                
+
             </div>
         </div>
     </div>
@@ -544,7 +544,7 @@ Renewable Energy</h1>
         </div>
     </section>
 -->
-<!--
+    <!--
     <section class="space-top space-extra-bottom">
         <div class="container">
             <div class="title-area text-center wow fadeInUp" data-wow-delay="0.3s"><svg class="sec-icon" width="68" height="67" viewBox="0 0 68 67">
@@ -640,31 +640,31 @@ Renewable Energy</h1>
                         <div class="process-item">
                             <h3 class="process-title h5">Design</h3>
                             <div class="process-content"><span class="process-number">1</span>
-                                <p class="process-text">SUNRISE INDIA Meticulously design each renewal power systems 
-by a team of highly skilled and experienced professionals..</p>
+                                <p class="process-text">SUNRISE INDIA Meticulously design each renewal power systems
+                                    by a team of highly skilled and experienced professionals..</p>
                             </div>
                         </div>
                         <div class="process-item">
                             <h3 class="process-title h5">Supply</h3>
                             <div class="process-content"><span class="process-number">2</span>
-                                <p class="process-text">SUNRISE INDIA incorporates the best materials and components 
-to build up a renewable power system that results in an enhanced 
-output and profitable results to our customers</p>
+                                <p class="process-text">SUNRISE INDIA incorporates the best materials and components
+                                    to build up a renewable power system that results in an enhanced
+                                    output and profitable results to our customers</p>
                             </div>
                         </div>
                         <div class="process-item">
                             <h3 class="process-title h5">Execution</h3>
                             <div class="process-content"><span class="process-number">3</span>
-                                <p class="process-text">SUNRISE INDIA deals with the construction and implementation of  
-renewable power system in India, Delivering state of the art power  
-solutions at your doorsteps.</p>
+                                <p class="process-text">SUNRISE INDIA deals with the construction and implementation of
+                                    renewable power system in India, Delivering state of the art power
+                                    solutions at your doorsteps.</p>
                             </div>
                         </div>
                         <div class="process-item">
                             <h3 class="process-title h5">Service & Maintainance</h3>
                             <div class="process-content"><span class="process-number">4</span>
-                                <p class="process-text">SUNRISE INDIA works closely with each clients to ensure that the  
-system operates Consistently and Reliably</p>
+                                <p class="process-text">SUNRISE INDIA works closely with each clients to ensure that the
+                                    system operates Consistently and Reliably</p>
                             </div>
                         </div>
                     </div>
@@ -732,7 +732,7 @@ system operates Consistently and Reliably</p>
         </div>
     </section>
 -->
-<!--
+    <!--
     <section class="vs-blog-wrapper space-extra-bottom">
         <div class="container">
             <div class="title-area text-center wow fadeInUp" data-wow-delay="0.3s"><svg class="sec-icon" width="68" height="67" viewBox="0 0 68 67">
@@ -857,7 +857,7 @@ system operates Consistently and Reliably</p>
                         <div class="widget footer-widget">
                             <div class="vs-widget-about">
                                 <div class="footer-logo"><a href="index.html"><img src="assets/img/logo-white.svg" alt="Sunrise India"></a></div>
-                                <p class="footer-text">We are a leading Service Provider of Solar Grid, Solar Water Heating and Solar Power Solutions provider. We aim to build a green future for our global community by utilising the energy of the sun. Write to us at  Shyam@sunriseindiasolar.com</p>
+                                <p class="footer-text">We are a leading Service Provider of Solar Grid, Solar Water Heating and Solar Power Solutions provider. We aim to build a green future for our global community by utilising the energy of the sun. Write to us at Shyam@sunriseindiasolar.com</p>
                             </div>
                         </div>
                     </div>
@@ -902,7 +902,7 @@ system operates Consistently and Reliably</p>
                     <div class="contact-style1">
                         <h3 class="contact-title h6">Branch Office</h3>
                         <p class="contact-text">C/o-urmila Devi,hari Vihar Colony, Ramnagar, Patna Br 800001
-</p>
+                        </p>
                         <div class="contact-info"><img src="assets/img/icon/info-1-2.png" alt="icon"> <a href="tel:+91 9412787473">( +91 9412787473, 9430000764 )</a></div>
                         <div class="contact-info"><i class="fas fa-envelope"></i> <a href="mailto:Shyam@sunriseindiasolar.com">Shyam@sunriseindiasolar.com</a></div>
                     </div>
