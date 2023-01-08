@@ -372,29 +372,30 @@
             </div>
             <div class="row vs-carousel wow owl-partner fadeInUp" data-wow-delay="0.4s" data-slide-show="5" data-lg-slide-show="4" data-md-slide-show="3" data-sm-slide-show="2">
                 <div class="col d-flex justify-content-center">
-                    <div class="brand-style1"><img src="./img/1.png" alt="brand"></div>
+                    <div class="brand-style1"><img src="./img/partner/breada.png" alt="brand"></div>
                 </div>
                 <div class="col d-flex justify-content-center">
-                    <div class="brand-style1"><img src="./img/2.png" alt="brand"></div>
+                    <div class="brand-style1"><img src="./img/partner/jreda.png" alt="brand"></div>
                 </div>
                 <div class="col d-flex justify-content-center">
-                    <div class="brand-style1"><img src="./img/3.png" alt="brand"></div>
+                    <div class="brand-style1"><img src="./img/partner/expression.png" alt="brand"></div>
                 </div>
                 <div class="col d-flex justify-content-center">
-                    <div class="brand-style1"><img src="./img/4.png" alt="brand"></div>
+                    <div class="brand-style1"><img src="./img/partner/husk-logo.png" alt="brand"></div>
                 </div>
                 <div class="col d-flex justify-content-center">
-                    <div class="brand-style1"><img src="./img/5.png" alt="brand"></div>
+                    <div class="brand-style1"><img src="./img/partner/powerone.png" alt="brand"></div>
                 </div>
                 <div class="col d-flex justify-content-center">
-                    <div class="brand-style1"><img src="./img/gallery1.jpg" alt="brand"></div>
+                    <div class="brand-style1"><img src="./img/partner/larson-and-turbo.jpg" alt="brand"></div>
                 </div>
                 <div class="col d-flex justify-content-center">
-                    <div class="brand-style1"><img src="./img/gallery2.jpg" alt="brand"></div>
+                    <div class="brand-style1"><img src="./img/partner/reil-1.jpg" alt="brand"></div>
                 </div>
                 <div class="col d-flex justify-content-center">
-                    <div class="brand-style1"><img src="./img/gallery3.jpg" alt="brand"></div>
+                    <div class="brand-style1"><img src="./img/partner/rn-jewellers.png" alt="brand"></div>
                 </div>
+               
 
             </div>
         </div>

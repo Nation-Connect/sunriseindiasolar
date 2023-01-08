@@ -35,10 +35,10 @@
                     <div class="footer-right">
                         <p><strong>Quick Contact</strong></p>
                         <ul class="menu">
-                            <li><a href="#">Solar Panel</a></li>
-                            <li><a href="#">Solar Inverters</a></li>
-                            <li><a href="#">Solar Batteries</a></li>
-                            <li><a href="#">Solar Controllers</a></li>
+                            <li><a href="#">Solar Rooftop </a></li>
+                            <li><a href="#">Solar Street Light</a></li>
+                            <li><a href="#">Solar Water Pump</a></li>
+                            <li><a href="#">Solar Water Heater</a></li>
                         </ul>
                     </div>
                 </div>

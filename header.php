@@ -31,7 +31,7 @@
                                 <li><a href="about.php">About Us</a></li>
                                 <li><a href="solar-panel.php">Solar Panel</a></li>
                                 <li><a href="solar-inverters.html">Solar Inverters</a></li>
-                                <li><a href="solar-batteries.html">Solar Batteries</a></li>
+                                <li><a href="solar-water-pump.php">Solar Water Pump</a></li>
                                 <li><a href="solar-controllers.html">Solar Controllers</a></li>
                                 <li><a href="gallery.php">Gallery</a></li>
                                 <li><a href="project.php">Site Project</a></li>
