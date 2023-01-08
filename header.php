@@ -29,7 +29,7 @@
                             <ul>
                                 <li><a href="index.php">Home</a></li>
                                 <li><a href="about.php">About Us</a></li>
-                                <li><a href="solar-panel.html">Solar Panel</a></li>
+                                <li><a href="solar-panel.php">Solar Panel</a></li>
                                 <li><a href="solar-inverters.html">Solar Inverters</a></li>
                                 <li><a href="solar-batteries.html">Solar Batteries</a></li>
                                 <li><a href="solar-controllers.html">Solar Controllers</a></li>
