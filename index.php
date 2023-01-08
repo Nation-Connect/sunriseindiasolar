@@ -9,7 +9,7 @@
 </head>
 
 <body>
-<?php
+    <?php
     include 'header.php';
     ?>
     <div class="pxp-hero">
@@ -360,39 +360,46 @@
             </div>
         </div>
     </div>
-    <div class="space-bottom">
-        <div class="container"><span class="sec-subtitle text-decoration-underline mb-4 pb-lg-3 text-center">Some of Our Valuable Partners
-            </span>
-            <div class="row vs-carousel wow fadeInUp" data-wow-delay="0.4s" data-slide-show="5" data-lg-slide-show="4" data-md-slide-show="3" data-sm-slide-show="2">
-                <div class="col-xl-4">
-                    <div class="brand-style1"><img src="assets/img/brand/brand-1-1.png" alt="brand"></div>
+    <div class="partners">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="section-title mb-4">
+                        <h1 class="text-dark text-center">Some of Our Valuable Partners
+                        </h1>
+                    </div>
                 </div>
-                <div class="col-xl-4">
-                    <div class="brand-style1"><img src="assets/img/brand/brand-1-2.png" alt="brand"></div>
+            </div>
+            <div class="row vs-carousel wow owl-partner fadeInUp" data-wow-delay="0.4s" data-slide-show="5" data-lg-slide-show="4" data-md-slide-show="3" data-sm-slide-show="2">
+                <div class="col d-flex justify-content-center">
+                    <div class="brand-style1"><img src="./img/1.png" alt="brand"></div>
                 </div>
-                <div class="col-xl-4">
-                    <div class="brand-style1"><img src="assets/img/brand/brand-1-3.png" alt="brand"></div>
+                <div class="col d-flex justify-content-center">
+                    <div class="brand-style1"><img src="./img/2.png" alt="brand"></div>
                 </div>
-                <div class="col-xl-4">
-                    <div class="brand-style1"><img src="assets/img/brand/brand-1-4.png" alt="brand"></div>
+                <div class="col d-flex justify-content-center">
+                    <div class="brand-style1"><img src="./img/3.png" alt="brand"></div>
                 </div>
-                <div class="col-xl-4">
-                    <div class="brand-style1"><img src="assets/img/brand/brand-1-5.png" alt="brand"></div>
+                <div class="col d-flex justify-content-center">
+                    <div class="brand-style1"><img src="./img/4.png" alt="brand"></div>
                 </div>
-                <div class="col-xl-4">
-                    <div class="brand-style1"><img src="assets/img/brand/brand-1-6.png" alt="brand"></div>
+                <div class="col d-flex justify-content-center">
+                    <div class="brand-style1"><img src="./img/5.png" alt="brand"></div>
                 </div>
-                <div class="col-xl-4">
-                    <div class="brand-style1"><img src="assets/img/brand/brand-1-7.png" alt="brand"></div>
+                <div class="col d-flex justify-content-center">
+                    <div class="brand-style1"><img src="./img/gallery1.jpg" alt="brand"></div>
                 </div>
-                <div class="col-xl-4">
-                    <div class="brand-style1"><img src="assets/img/brand/brand-1-8.png" alt="brand"></div>
+                <div class="col d-flex justify-content-center">
+                    <div class="brand-style1"><img src="./img/gallery2.jpg" alt="brand"></div>
+                </div>
+                <div class="col d-flex justify-content-center">
+                    <div class="brand-style1"><img src="./img/gallery3.jpg" alt="brand"></div>
                 </div>
 
             </div>
         </div>
     </div>
-    
+
     <?php
     include 'footer.php';
     include 'foot.php';

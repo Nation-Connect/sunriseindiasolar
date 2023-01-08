@@ -5,8 +5,8 @@
                     <div class="footer-contact">
                         <p><strong>Contact Us</strong></p>
                         <ul>
-                            <li><i class="fa fa-envelope"></i> <a href="mailtoinfo%40satwiksungreencorporation.html">Shyam@sunriseindiasolar.com</a></li>
-                            <li><i class="fa fa-phone"></i> <a href="tel:09412787473">+91 9412787473</a></li>
+                            <li><i class="fa fa-envelope"></i> <a href="mailto:info@shyam@sunriseindiasolar.com">shyam@sunriseindiasolar.com</a></li>
+                            <li><i class="fa fa-phone"></i> <a href="tel:+919412787473">+91 9412787473</a></li>
                             <li><i class="fa fa-map-marker"></i> <span>
                                     Corporate Office :- Road No:5, New Area
                                     Gandhi Nagar, Hinoo,
@@ -21,7 +21,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="footer-center">
-                        <p class="copyright"> Copyright © 2022 All Rights Reserved By <a href="https://www.sunriseindiasolar.com
+                        <p class="copyright"> Copyright © <?= date('Y') ?> All Rights Reserved By <a href="https://www.sunriseindiasolar.com
 ">SUNRISE INDIA</a></p>
                         <div class="socials clearfix">
                             <div class="icon"><a href="https://www.facebook.com/sunriseindiasolar"><i class='fa fa-facebook'></i></a></div>
