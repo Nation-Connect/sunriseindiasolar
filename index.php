@@ -87,13 +87,13 @@
         </div>
     </div>
 
-    <!-- <div class="our-service">
+     <div class="our-service">
         <div class="container">
             <div class="service-box">
 
                 <div class="row">
                     <div class="col-lg-5">
-                    </div>
+                    </div>   <!--
                     <div class="col-lg-7">
                         <div class="section-title mb-4">
                             <h1 class="text-white text-center">Categories
@@ -124,15 +124,16 @@
                                 <div class="single-service">
                                     <a href="#"><img src="img/controllers.png" alt="" title=""></a>
                                     <a href="#">Solar Controllers</a>
-                                </div>
+
+                                </div> 
                             </div>
-                        </div>
+                        </div> -->
                     </div>
 
                 </div>
             </div>
         </div>
-    </div> -->
+    </div> 
 
     <div class="popular-product">
         <div class="container-fluid">
@@ -146,37 +147,37 @@
                     <div class="popular">
                         <div class="item">
                             <div class="box"><a href="#"><img src="img/inverter1.jpg" title="" alt="">
-                                    <div class="detail">Solar Panal
+                                    <div class="detail">Solar Grid
                                 </a></div>
                         </div>
                     </div>
                     <div class="item">
-                        <div class="box"><a href="#"><img src="img/inverter2.jpg" title="" alt="">
+                        <div class="box"><a href="#"><img src="img/solarstreetlight.jpg" title="" alt="">
                                 <div class="detail">Solar Steet Light
                             </a></div>
                     </div>
                 </div>
                 <div class="item">
-                    <div class="box"><a href="#"><img src="img/battery3.jpg" title="" alt="">
-                            <div class="detail">Solar
+                    <div class="box"><a href="#"><img src="img/windmill.jpg" title="" alt="">
+                            <div class="detail">Wind mill
                         </a></div>
                 </div>
             </div>
             <div class="item">
-                <div class="box"><a href="#"><img src="img/controller2.jpg" title="" alt="">
-                        <div class="detail">Solar Power Panel 10 Pc
+                <div class="box"><a href="#"><img src="img/solarwaterpumpset.jpg" title="" alt="">
+                        <div class="detail"> Solar Water Pump Set
                     </a></div>
             </div>
         </div>
         <div class="item">
-            <div class="box"><a href="#"><img src="img/battery1.jpg" title="" alt="">
-                    <div class="detail">Solar Power Charger
+            <div class="box"><a href="#"><img src="img/solarservicing.jpg" title="" alt="">
+                    <div class="detail">AMC of Renewable Project
                 </a></div>
         </div>
     </div>
     <div class="item">
-        <div class="box"><a href="#"><img src="img/battery2.jpg" title="" alt="">
-                <div class="detail">Solar Lantern 10 Pc
+        <div class="box"><a href="#"><img src="img/solarwaterheater.jpg" title="" alt="">
+                <div class="detail">Solar Water Heater
             </a></div>
     </div>
     </div>
