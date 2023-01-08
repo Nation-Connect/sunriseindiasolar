@@ -573,3 +573,10 @@ text-align: center;
 .owl-carousel .owl-item {
     text-align:center;
 }
+
+.submit-btn{
+    background: #fcca03;
+    color: #000;
+    padding: 10px 30px;
+    border: navajowhite;
+}
