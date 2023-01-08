@@ -561,8 +561,15 @@ hr {
     padding: 10px 30px;
     border: navajowhite
 }
+
 .project-title {
 font-size: 24px;
 font-weight: bolder;
 text-align: center;
+}
+
+.partners{padding:80px 0px;background:url('../img/client-bg.png');}
+
+.owl-carousel .owl-item {
+    text-align:center;
 }
