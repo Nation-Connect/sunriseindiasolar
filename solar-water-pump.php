@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html lang="en" class="">
+
 <head>
-	<title>SUNRISE INDIA</title>
-	<?php
+    <title>SUNRISE INDIA</title>
+    <?php
 	include 'head.php';
 	?>
 </head>
+
 <body>
-<?php
+    <?php
 	include 'header.php';
 	?>
     <div class="breadcumb">
@@ -80,9 +82,10 @@
     </div>
     </div>
     </div>
-	<?php
+    <?php
 	include 'footer.php';
 	include 'foot.php';
 	?>
 </body>
+
 </html>
