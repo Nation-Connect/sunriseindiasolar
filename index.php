@@ -119,7 +119,7 @@
                     <div class="popular">
                         <div class="item">
                             <div class="box"><a href="solar-rooftop.php"><img src="img/inverter1.jpg" title="" alt="">
-                                    <div class="detail">Solar Grid
+                                    <div class="detail">Solar Rooftop
                                 </a></div>
                         </div>
                     </div>
