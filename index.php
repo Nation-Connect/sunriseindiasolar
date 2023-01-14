@@ -349,6 +349,16 @@
                     <div class="brand-style1"><img src="./img/partner/breada.png" alt="brand"></div>
                 </div>
                 <div class="col d-flex justify-content-center">
+                    <div class="brand-style1"><img src="./img/partner/NBPDCL_logo.png" alt="brand"></div>
+                </div>
+                <div class="col d-flex justify-content-center">
+                    <div class="brand-style1"><img src="./img/partner/sbpdcl.jpg" alt="brand"></div>
+                </div>
+                <div class="col d-flex justify-content-center">
+                    <div class="brand-style1"><img src="./img/partner/UNEECOPS_SOLAR_LOGO.png" alt="brand"></div>
+                </div>
+
+                <div class="col d-flex justify-content-center">
                     <div class="brand-style1"><img src="./img/partner/jreda.png" alt="brand"></div>
                 </div>
                 <div class="col d-flex justify-content-center">
