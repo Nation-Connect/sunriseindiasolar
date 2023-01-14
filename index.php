@@ -118,13 +118,13 @@
 
                     <div class="popular">
                         <div class="item">
-                            <div class="box"><a href="#"><img src="img/inverter1.jpg" title="" alt="">
+                            <div class="box"><a href="solar-rooftop.php"><img src="img/inverter1.jpg" title="" alt="">
                                     <div class="detail">Solar Grid
                                 </a></div>
                         </div>
                     </div>
                     <div class="item">
-                        <div class="box"><a href="#"><img src="img/solarstreetlight.jpg" title="" alt="">
+                        <div class="box"><a href="solar-street-light.php"><img src="img/solarstreetlight.jpg" title="" alt="">
                                 <div class="detail">Solar Steet Light
                             </a></div>
                     </div>
@@ -136,7 +136,7 @@
                 </div>
             </div>
             <div class="item">
-                <div class="box"><a href="#"><img src="img/solarwaterpumpset.jpg" title="" alt="">
+                <div class="box"><a href="solar-water-heater.php"><img src="img/solarwaterpumpset.jpg" title="" alt="">
                         <div class="detail"> Solar Water Pump Set
                     </a></div>
             </div>
@@ -148,7 +148,7 @@
         </div>
     </div>
     <div class="item">
-        <div class="box"><a href="#"><img src="img/solarwaterheater.jpg" title="" alt="">
+        <div class="box"><a href="solar-water-pump.php"><img src="img/solarwaterheater.jpg" title="" alt="">
                 <div class="detail">Solar Water Heater
             </a></div>
     </div>
