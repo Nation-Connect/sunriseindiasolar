@@ -35,10 +35,10 @@
                     <div class="footer-right">
                         <p><strong>Quick Contact</strong></p>
                         <ul class="menu">
-                            <li><a href="#">Solar Rooftop </a></li>
-                            <li><a href="#">Solar Street Light</a></li>
-                            <li><a href="#">Solar Water Pump</a></li>
-                            <li><a href="#">Solar Water Heater</a></li>
+                            <li><a href="solar-rooftop.php">Solar Rooftop </a></li>
+                            <li><a href="solar-street-light.php">Solar Street Light</a></li>
+                            <li><a href="solar-water-heater.php">Solar Water Pump</a></li>
+                            <li><a href="solar-water-pump.php">Solar Water Heater</a></li>
                         </ul>
                     </div>
                 </div>
