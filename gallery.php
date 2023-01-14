@@ -44,27 +44,9 @@
 							<div class="row">
 
 								<div class="col-lg-3">
-									<div class="gallery-item"><a data-lightgallery="item" href="img/gallery1.jpg"><img src="img/gallery1.jpg"></a></div>
+									<div class="gallery-item"><a data-lightgallery="item" href="img/solarbird.jpg"><img src="img/solarbird.jpg"></a></div>
 								</div>
-								<div class="col-lg-3">
-									<div class="gallery-item"><a data-lightgallery="item" href="img/gallery2.jpg"><img src="img/gallery2.jpg"></a></div>
-								</div>
-								<div class="col-lg-3">
-									<div class="gallery-item"><a data-lightgallery="item" href="img/gallery3.jpg"><img src="img/gallery3.jpg"></a></div>
-								</div>
-								<div class="col-lg-3">
-									<div class="gallery-item"><a data-lightgallery="item" href="img/gallery4.jpg"><img src="img/gallery4.jpg"></a></div>
-								</div>
-								<div class="col-lg-3">
-									<div class="gallery-item"><a data-lightgallery="item" href="img/gallery5.jpg"><img src="img/gallery5.jpg"></a></div>
-								</div>
-								<div class="col-lg-3">
-									<div class="gallery-item"><a data-lightgallery="item" href="img/gallery6.jpg"><img src="img/gallery6.jpg"></a></div>
-								</div>
-								<div class="col-lg-3">
-									<div class="gallery-item"><a data-lightgallery="item" href="img/gallery7.jpg"><img src="img/gallery7.jpg"></a></div>
-								</div>
-							</div>
+								
 						</div>
 
 

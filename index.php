@@ -13,27 +13,31 @@
     include 'header.php';
     ?>
     <div class="pxp-hero">
-        <div id="pxp-hero-props-carousel-1" class="carousel slide pxp-hero-props-carousel-1" data-ride="carousel" data-pause="false">
+        <div id="pxp-hero-props-carousel-1" class="carousel slide pxp-hero-props-carousel-1" data-ride="carousel"
+            data-pause="false">
             <div class="carousel-inner">
                 <div class="carousel-item active"><img alt="" title="" src="img/slider1.jpg"></div>
                 <div class="carousel-item" data-slide="1"><img alt="" title="" src="img/slider2.jpg"></div>
             </div>
             <div class="pxp-carousel-controls">
-                <a class="pxp-carousel-control-prev" role="button" data-slide="prev"><i class='fa fa-arrow-left'></i></a>
-                <a class="pxp-carousel-control-next" role="button" data-slide="next"><i class='fa fa-arrow-right'></i></a>
+                <a class="pxp-carousel-control-prev" role="button" data-slide="prev"><i
+                        class='fa fa-arrow-left'></i></a>
+                <a class="pxp-carousel-control-next" role="button" data-slide="next"><i
+                        class='fa fa-arrow-right'></i></a>
             </div>
         </div>
-        <div class="carousel slide pxp-hero-props-carousel-1-prices" data-ride="carousel" data-pause="false" data-interval="false">
+        <div class="carousel slide pxp-hero-props-carousel-1-prices" data-ride="carousel" data-pause="false"
+            data-interval="false">
             <div class="carousel-inner">
                 <div class="carousel-item active" data-slide="0">
                     <div class="pxp-progress"></div>
                     <div class="pxp-price"><span></span></div>
-                    <a href="#" class="pxp-cta text-uppercase pxp-animate">View Gallery</a>
+                    <a href="gallery.php" class="pxp-cta text-uppercase pxp-animate">View Gallery</a>
                 </div>
                 <div class="carousel-item" data-slide="1">
                     <div class="pxp-progress"></div>
                     <div class="pxp-price"><span></span></div>
-                    <a href="#" class="pxp-cta text-uppercase pxp-animate">View Gallery</a>
+                    <a href="gallery.php" class="pxp-cta text-uppercase pxp-animate">View Gallery</a>
                 </div>
             </div>
             <div class="pxp-carousel-ticker">
@@ -68,7 +72,7 @@
                                     Electronics Sector in Bihar & Jharkhand
                                 </p>
                             </div>
-                            <a href="about.html">View More</a>
+                            <a href="about.php">View More</a>
                         </div>
                         <div class="col-lg-5 col-md-5 col-12">
                             <div class="about-img">
@@ -87,60 +91,28 @@
         </div>
     </div>
 
-     <div class="our-service">
+    <div class="our-service">
         <div class="container">
             <div class="service-box">
 
                 <div class="row">
                     <div class="col-lg-5">
-                    </div>   <!--
-                    <div class="col-lg-7">
-                        <div class="section-title mb-4">
-                            <h1 class="text-white text-center">Categories
-                            </h1>
-
-                        </div>
-                        <div class="row">
-
-                            <div class="col-lg-6 col-md-6 col-sm-6">
-                                <div class="single-service">
-                                    <a href="#"><img src="img/solar-panel.png" alt="" title=""></a>
-                                    <a href="#">Solar Panel</a>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-md-6 col-sm-6">
-                                <div class="single-service">
-                                    <a href="#"><img src="img/inverter.png" alt="" title=""></a>
-                                    <a href="#">Solar Inverters</a>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-md-6 col-sm-6 mt-2">
-                                <div class="single-service">
-                                    <a href="#"><img src="img/battery.png" alt="" title=""></a>
-                                    <a href="#">Solar Batteries</a>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-md-6 col-sm-6 mt-2">
-                                <div class="single-service">
-                                    <a href="#"><img src="img/controllers.png" alt="" title=""></a>
-                                    <a href="#">Solar Controllers</a>
-
-                                </div> 
-                            </div>
-                        </div> -->
                     </div>
-
+                    
                 </div>
+
             </div>
         </div>
-    </div> 
+    </div>
+    </div>
 
     <div class="popular-product">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-md-3 product-sell">
                     <h3 class="text-white">Most Common Service</h3>
-                    <p>We, Sunrise India at Bihar and Jharkhand are a leading Service Provider of solar energy systems and other products.</p>
+                    <p>We, Sunrise India at Bihar and Jharkhand are a leading Service Provider of solar energy systems
+                        and other products.</p>
                 </div>
                 <div class="col-md-9">
 
@@ -220,7 +192,8 @@
                             <hr class="divider_2_40 bottommargin_25">
                             <div class="service-content">
 
-                                <p>Rooftop solar power plant consultants, make sure that you are completely satisfied with us. </p>
+                                <p>Rooftop solar power plant consultants, make sure that you are completely satisfied
+                                    with us. </p>
                                 <a href="#">View More</a>
                             </div>
                         </div>
@@ -370,7 +343,8 @@
                     </div>
                 </div>
             </div>
-            <div class="row vs-carousel wow owl-partner fadeInUp" data-wow-delay="0.4s" data-slide-show="5" data-lg-slide-show="4" data-md-slide-show="3" data-sm-slide-show="2">
+            <div class="row vs-carousel wow owl-partner fadeInUp" data-wow-delay="0.4s" data-slide-show="5"
+                data-lg-slide-show="4" data-md-slide-show="3" data-sm-slide-show="2">
                 <div class="col d-flex justify-content-center">
                     <div class="brand-style1"><img src="./img/partner/breada.png" alt="brand"></div>
                 </div>
@@ -395,7 +369,7 @@
                 <div class="col d-flex justify-content-center">
                     <div class="brand-style1"><img src="./img/partner/rn-jewellers.png" alt="brand"></div>
                 </div>
-               
+
 
             </div>
         </div>
