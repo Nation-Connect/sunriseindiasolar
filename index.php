@@ -60,7 +60,7 @@
                                     <h1>About Us</h1>
 
                                 </div>
-                                <p>Sunrise India is Registered under Indian Partnership Act-1932.
+                                <p>Sunrise Indian is Registered under Indian Partnership Act-1932.
                                     Sunrise india is Empanelled Vender with Bihar Renewable Energy Development
                                     Agency and Jharkhand Renewable Energy Development Agency under the Rooftop
                                     Subsidy Program. Also We are Trusted Vender by Top Company of india like L&T
