@@ -584,3 +584,16 @@ text-align: center;
 .brand-style1 img{
     height: 80px;
 }
+
+.navbar-light .navbar-nav .active>.nav-link {
+    color: #000000;
+    font-size: 16px;
+}
+
+.navbar-nav{
+    font-size: 16px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #000000
+}
