@@ -43,7 +43,7 @@
                                     <input type="hidden" name="send-contact-mail" />
                                     <div class="col-xs-12 col-sm-12 col-md-6"><label>Name</label><input type="text"
                                             name="name" required=""></div>
-                                    <div class="col-xs-12 col-sm-12 col-md-6"><label>Email</label><input type="text"
+                                    <div class="col-xs-12 col-sm-12 col-md-6"><label>Email</label><input type="email"
                                             name="email" required=""></div>
                                     <div class="col-xs-12 col-sm-12 col-md-6"><label>Mobile</label><input type="text"
                                             name="mobile" required=""></div>
