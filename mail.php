@@ -32,7 +32,7 @@
     
         //Recipients
         $mail->setFrom('no-reply@sunriseindiasolar.com', 'Sunrise India');
-        $mail->addAddress("sugandhkumar9@gmail.com", "'Sunrise India");     // Add a recipient
+        $mail->addAddress("info@sunriseindiasolar.com", "'Sunrise India");     // Add a recipient
         $mail->addReplyTo($email, $name);
     
         // Attachments
