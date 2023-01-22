@@ -31,7 +31,7 @@
         $mail->Port       = 587;                                    // TCP port to connect to
     
         //Recipients
-        $mail->setFrom('no-reply@sunriseindiasolar.com', 'Sunrise India');
+        $mail->setFrom('enquiry@sunriseindiasolar.com', 'Sunrise India');
         $mail->addAddress("info@sunriseindiasolar.com", "Sunrise India");     // Add a recipient
         $mail->addReplyTo($email, $name);
     
