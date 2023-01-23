@@ -16,8 +16,8 @@
         <div id="pxp-hero-props-carousel-1" class="carousel slide pxp-hero-props-carousel-1" data-ride="carousel"
             data-pause="false">
             <div class="carousel-inner">
-                <div class="carousel-item active"><img alt="" title="" src="img/slider1.jpg"></div>
-                <div class="carousel-item" data-slide="1"><img alt="" title="" src="img/slider2.jpg"></div>
+                <div class="carousel-item active"><img alt="" title="" src="img/banner1.jpg"></div>
+                <div class="carousel-item" data-slide="1"><img alt="" title="" src="img/banner2.jpg"></div>
             </div>
             <div class="pxp-carousel-controls">
                 <a class="pxp-carousel-control-prev" role="button" data-slide="prev"><i
