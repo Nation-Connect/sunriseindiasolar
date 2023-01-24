@@ -34,7 +34,7 @@
                         <div class="col-lg-12 col-md-12 col-12">
                             <div class="single-about">
                                 <div class="section-title">
-                                    <h1 class="text-center mb-5">Solar Water</h1>
+                                    <h1 class="text-center mb-5">Solar Water Heater</h1>
 
                                 </div>
 
