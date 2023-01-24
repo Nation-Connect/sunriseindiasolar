@@ -4,16 +4,13 @@
                 <div class="col-xs-12 col-sm-12 col-md-6 no-padding">
                     <div class="contacttopleft">
                         <div class="logo">
-                            <a href="index.php"><img src="img/logo.png"  class="img-responsive" title="solar" alt="solar"  height="100"/></a>
-                        
+                            <a href="index.php"><img src="img/logo.png" class="img-responsive" title="solar" alt="solar" /></a>
                             <div class="mobile-menu"></div>
                         </div>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-12 col-md-6 no-padding">
                     <div class="contacttopright">
-                    <a href="profile.pdf" download="profile">Download Profile</a>
-                 
                         <a href="tel:09412787473"><i class='fa fa-phone'></i>+91 9412787473</a>
                         <a href="mailto:shyam@sunriseindiasolar.com"><i class='fa fa-envelope'></i> shyam@sunriseindiasolar.com</a>
 
@@ -41,9 +38,10 @@
                                 <li><a href="contact.php">Contact&nbsp;Us</a></li>
                                 
                             </ul>
-                        </nav>
-                    </div>
+                        </div>
+                    </nav>
                 </div>
             </div>
         </div>
-    </header>
+    </div>
+</header>
