@@ -234,6 +234,64 @@
 								<div class="col-lg-3">
 									<div class="gallery-item"><a data-lightgallery="item" href="img/sunrisegallery/sunriseindiasolar (61).jpeg"><img src="img/sunrisegallery/sunriseindiasolar (61).jpeg"> </a></div>
 								</div>
+								<div class="col-lg-3">
+									<div class="gallery-item"><a data-lightgallery="item" href="img/sunrisegallery/sunriseindiasolar (61).jpeg"><img src="img/sunrisegallery/sunriseindiasolar (61).jpeg"> </a></div>
+								</div>
+								<div class="col-lg-3">
+									<div class="gallery-item"><a data-lightgallery="item" href="img/sunrisegallery/sunriseindiasolar (62).jpeg"><img src="img/sunrisegallery/sunriseindiasolar (62).jpeg"> </a></div>
+								</div>
+								<div class="col-lg-3">
+									<div class="gallery-item"><a data-lightgallery="item" href="img/sunrisegallery/sunriseindiasolar (63).jpeg"><img src="img/sunrisegallery/sunriseindiasolar (63).jpeg"> </a></div>
+								</div>
+								<div class="col-lg-3">
+									<div class="gallery-item"><a data-lightgallery="item" href="img/sunrisegallery/sunriseindiasolar (64).jpeg"><img src="img/sunrisegallery/sunriseindiasolar (64).jpeg"> </a></div>
+								</div>
+								<div class="col-lg-3">
+									<div class="gallery-item"><a data-lightgallery="item" href="img/sunrisegallery/sunriseindiasolar (65).jpeg"><img src="img/sunrisegallery/sunriseindiasolar (65).jpeg"> </a></div>
+								</div>
+								<div class="col-lg-3">
+									<div class="gallery-item"><a data-lightgallery="item" href="img/sunrisegallery/sunriseindiasolar (66).jpeg"><img src="img/sunrisegallery/sunriseindiasolar (66).jpeg"> </a></div>
+								</div>
+								<div class="col-lg-3">
+									<div class="gallery-item"><a data-lightgallery="item" href="img/sunrisegallery/sunriseindiasolar (67).jpeg"><img src="img/sunrisegallery/sunriseindiasolar (67).jpeg"> </a></div>
+								</div>
+								<div class="col-lg-3">
+									<div class="gallery-item"><a data-lightgallery="item" href="img/sunrisegallery/sunriseindiasolar (68).jpeg"><img src="img/sunrisegallery/sunriseindiasolar (68).jpeg"> </a></div>
+								</div>
+								<div class="col-lg-3">
+									<div class="gallery-item"><a data-lightgallery="item" href="img/sunrisegallery/sunriseindiasolar (69).jpeg"><img src="img/sunrisegallery/sunriseindiasolar (69).jpeg"> </a></div>
+								</div>
+								<div class="col-lg-3">
+									<div class="gallery-item"><a data-lightgallery="item" href="img/sunrisegallery/sunriseindiasolar (70).jpeg"><img src="img/sunrisegallery/sunriseindiasolar (70).jpeg"> </a></div>
+								</div>
+								<div class="col-lg-3">
+									<div class="gallery-item"><a data-lightgallery="item" href="img/sunrisegallery/sunriseindiasolar (71).jpeg"><img src="img/sunrisegallery/sunriseindiasolar (71).jpeg"> </a></div>
+								</div>
+								<div class="col-lg-3">
+									<div class="gallery-item"><a data-lightgallery="item" href="img/sunrisegallery/sunriseindiasolar (72).jpeg"><img src="img/sunrisegallery/sunriseindiasolar (72).jpeg"> </a></div>
+								</div>
+								<div class="col-lg-3">
+									<div class="gallery-item"><a data-lightgallery="item" href="img/sunrisegallery/sunriseindiasolar (73).jpeg"><img src="img/sunrisegallery/sunriseindiasolar (73).jpeg"> </a></div>
+								</div>
+								<div class="col-lg-3">
+									<div class="gallery-item"><a data-lightgallery="item" href="img/sunrisegallery/sunriseindiasolar (74).jpeg"><img src="img/sunrisegallery/sunriseindiasolar (74).jpeg"> </a></div>
+								</div>
+								<div class="col-lg-3">
+									<div class="gallery-item"><a data-lightgallery="item" href="img/sunrisegallery/sunriseindiasolar (75).jpeg"><img src="img/sunrisegallery/sunriseindiasolar (75).jpeg"> </a></div>
+								</div>
+								<div class="col-lg-3">
+									<div class="gallery-item"><a data-lightgallery="item" href="img/sunrisegallery/sunriseindiasolar (76).jpeg"><img src="img/sunrisegallery/sunriseindiasolar (76).jpeg"> </a></div>
+								</div>
+								<div class="col-lg-3">
+									<div class="gallery-item"><a data-lightgallery="item" href="img/sunrisegallery/sunriseindiasolar (77).jpeg"><img src="img/sunrisegallery/sunriseindiasolar (77).jpeg"> </a></div>
+								</div>
+								<div class="col-lg-3">
+									<div class="gallery-item"><a data-lightgallery="item" href="img/sunrisegallery/sunriseindiasolar (78).jpeg"><img src="img/sunrisegallery/sunriseindiasolar (78).jpeg"> </a></div>
+								</div>
+								<div class="col-lg-3">
+									<div class="gallery-item"><a data-lightgallery="item" href="img/sunrisegallery/sunriseindiasolar (79).jpeg"><img src="img/sunrisegallery/sunriseindiasolar (79).jpeg"> </a></div>
+								</div>
+
 								
 
 								

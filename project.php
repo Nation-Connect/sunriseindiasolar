@@ -46,8 +46,9 @@
 								<div class="col-lg-3 mb-4">
 									<div class="gallery-item"><a data-lightgallery="item" href="img/site1.jpg"><img
 												src="img/site1.jpg"></a></div>
-												<p class="project-title">eer</p>
+												<p class="project-title">All Govt. College, Bihar</p>
 								</div>
+								
 								<div class="col-lg-3 mb-4">
 									<div class="gallery-item"><a data-lightgallery="item" href="img/site2.jpg"><img
 												src="img/site2.jpg"></a></div>
