@@ -43,11 +43,28 @@
 						<div class="group" data-lightgallery="group">
 							<div class="row">
 
+							<div class="container">
+							<div class="container-fluid">
+  
+
+
+
+
+
+
+
+
+
+
+
+
 								<div class="col-lg-3 mb-4">
 									<div class="gallery-item"><a data-lightgallery="item" href="img/site1.jpg"><img
 												src="img/site1.jpg"></a></div>
 												<p class="project-title">All Govt. College, Bihar</p>
 								</div>
+								
+
 								
 								<div class="col-lg-3 mb-4">
 									<div class="gallery-item"><a data-lightgallery="item" href="img/site2.jpg"><img
