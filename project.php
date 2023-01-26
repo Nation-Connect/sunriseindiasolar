@@ -43,57 +43,32 @@
 						<div class="group" data-lightgallery="group">
 							<div class="row">
 
-							<div class="container">
-							<div class="container-fluid">
-  
+
+	
+        <div class="row">
+            <div class="col-12 col-md-6 col-lg-4 mb-3">
+                <div class="card">
+                    <img src="img/site1.jpg" class="card-img-top" alt="Solar Site Project Image" >
+                    <div class="card-body">
+					<p class="card-title" style="font-weight: bold; font-size: 24px;">All Govt College, Bihar</p>
+                        <p class="card-text">This project installs total 106  solar Grid at government colleges in Bihar, with a total capacity of 918 kW. It is off-grid, providing clean and sustainable energy while reducing dependence on fossil fuels and lower carbon footprint.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4 mb-3">
+                <div class="card">
+                    <img src="img/site2.jpg" class="card-img-top" alt="Solar Site Project Image">
+                    <div class="card-body">
+                        <h5 class="card-title">Project Title</h5>
+                        <p class="card-text">Project Description</p>
+                    </div>
+                </div>
+            </div>
+</div>
 
 
 
-
-
-
-
-
-
-
-
-
-								<div class="col-lg-3 mb-4">
-									<div class="gallery-item"><a data-lightgallery="item" href="img/site1.jpg"><img
-												src="img/site1.jpg"></a></div>
-												<p class="project-title">All Govt. College, Bihar</p>
-								</div>
-								
-
-								
-								<div class="col-lg-3 mb-4">
-									<div class="gallery-item"><a data-lightgallery="item" href="img/site2.jpg"><img
-												src="img/site2.jpg"></a></div>
-												<p class="project-title">eer</p>
-								</div>
-								<div class="col-lg-3 mb-4">
-									<div class="gallery-item"><a data-lightgallery="item" href="img/site3.jpg"><img
-												src="img/site3.jpg"></a></div>
-								</div>
-								<div class="col-lg-3 mb-4">
-									<div class="gallery-item"><a data-lightgallery="item" href="img/site4.jpg"><img
-												src="img/site4.jpg"></a></div>
-								</div>
-								<div class="col-lg-3 mb-4">
-									<div class="gallery-item"><a data-lightgallery="item" href="img/site5.jpg"><img
-												src="img/site5.jpg"></a></div>
-								</div>
-								<div class="col-lg-3 mb-4">
-									<div class="gallery-item"><a data-lightgallery="item" href="img/site6.jpg"><img
-												src="img/site6.jpg"></a></div>
-								</div>
-								<div class="col-lg-3 mb-4">
-									<div class="gallery-item"><a data-lightgallery="item" href="img/site7.jpg"><img
-												src="img/site7.jpg"></a></div>
-								</div>
-								<div class="col-lg-3 mb-4">
-									<div class="gallery-item"><a data-lightgallery="item" href="img/site8.jpg"><img
-												src="img/site8.jpg"></a></div>
+							
 								</div>
 							</div>
 						</div>
