@@ -602,3 +602,8 @@ text-align: center;
     margin-left:5px;
     margin-right:5px;
   }
+
+  .item-centr {
+    align-items: center;
+    display: flex;
+}

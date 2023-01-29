@@ -1,7 +1,7 @@
 <div class="topnav">
     <div class="container">
         <div class="row">
-            <div class="col-xs-12 col-sm-12 col-md-6 no-padding">
+            <div class="col-xs-12 col-sm-12 col-md-6 no-padding item-centr">
                 <div class="contacttopleft">
                     <div class="logo">
                         <a href="index.php"><img src="img/logo.png" class="img-responsive" title="solar" alt="solar" /></a>
