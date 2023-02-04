@@ -337,9 +337,7 @@
 								<div class="col-lg-3">
 									<div class="gallery-item"><a data-lightgallery="item" href="img/sunrisegallery/sunriseindiasolar (95).jpeg"><img src="img/sunrisegallery/sunriseindiasolar (95).jpeg"> </a></div>
 								</div>
-								<div class="col-lg-3"> 
-									<div class="gallery-item"><a data-lightgallery="item" href="img/sunrisegallery/sunriseindiasolar (96).jpeg"><img src="img/sunrisegallery/sunriseindiasolar (96).jpeg"> </a></div>
-								</div>
+								
 								
 								<div class="col-lg-3">
 									<div class="gallery-item"><a data-lightgallery="item" href="img/sunrisegallery/sunriseindiasolar (97).jpeg"><img src="img/sunrisegallery/sunriseindiasolar (97).jpeg"> </a></div>
