@@ -59,7 +59,7 @@
                 <div class="card">
                     <img src="img/site2.jpg" class="card-img-top" alt="Solar Site Project Image">
                     <div class="card-body">
-                        <h5 class="card-title">Project Title</h5>
+					<p class="card-title" style="font-weight: bold; font-size: 24px;">D.M. Office, Bihar</p>
                         <p class="card-text">Project Description</p>
                     </div>
                 </div>
