@@ -57,10 +57,10 @@
             </div>
             <div class="col-12 col-md-6 col-lg-4 mb-3">
                 <div class="card">
-                    <img src="img/site2.jpg" class="card-img-top" alt="Solar Site Project Image">
+                    <img src="img/site1.jpg" class="card-img-top" alt="Solar Site Project Image">
                     <div class="card-body">
 					<p class="card-title" style="font-weight: bold; font-size: 24px;">D.M. Office, Bihar</p>
-                        <p class="card-text">Project Description</p>
+                        <p class="card-text">we Have successfully done off-grid solar installations at 38 sites for D.M. Office, Bihar, generating 228 kWh of sustainable energy from sun energy.one Steps toward the green revolution and cleaner future !"</p>
                     </div>
                 </div>
             </div>

@@ -354,10 +354,11 @@
         </div>
         <div class="col-md-3">
           <div class="card">
-            <img src="member2.jpg" class="card-img-top" alt="Team Member 2">
+            <img src="img/sunriseteam/sunriseindiasolardirector.jpg" class="card-img-top" alt="Team Member 2">
             <div class="card-body">
-              <h4 class="card-title">Team Member 2</h4>
-              <p class="card-text">Some information about Team Member 2</p>
+             
+            <p style="font-size: 20px; font-weight: bold;">SN Tiwari &nbsp &nbsp &nbsp (Designated Partner) </p>
+
             </div>
           </div>
         </div>
