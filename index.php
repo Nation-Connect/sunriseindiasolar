@@ -347,7 +347,7 @@
             <img src="img/sunriseteam/sunriseindiaomnarayan.jpeg" class="card-img-top" alt="Team Member 1">
             <div class="card-body">
         
-              <p style="font-size: 20px; font-weight: bold;">Om Narayan (Designated Partner) </p>
+              <p style="font-size: 20px; font-weight: bold;">Om Narayan (Director) </p>
               
             </div>
           </div>
@@ -357,26 +357,25 @@
             <img src="img/sunriseteam/sunriseindiasolardirector.jpg" class="card-img-top" alt="Team Member 2">
             <div class="card-body">
              
-            <p style="font-size: 20px; font-weight: bold;">SN Tiwari &nbsp &nbsp &nbsp (Designated Partner) </p>
+            <p style="font-size: 20px; font-weight: bold;">SN Tiwari (Director) </p>
 
             </div>
           </div>
         </div>
         <div class="col-md-3">
           <div class="card">
-            <img src="member3.jpg" class="card-img-top" alt="Team Member 3">
+            <img src="img/sunriseteam/sunriseindiasolarceo.jpg" class="card-img-top" alt="Team Member 3">
             <div class="card-body">
-              <h4 class="card-title">Team Member 3</h4>
-              <p class="card-text">Some information about Team Member 3</p>
+            <p style="font-size: 20px; font-weight: bold;">J.N Tiwari (CEO) </p>
             </div>
           </div>
         </div>
         <div class="col-md-3">
           <div class="card">
-            <img src="member4.jpg" class="card-img-top" alt="Team Member 4">
+            <img src="img/sunriseteam/sunriseindiasolarprojecthead.jpg" class="card-img-top" alt="Team Member 4">
             <div class="card-body">
-              <h4 class="card-title">Team Member 4</h4>
-              <p class="card-text">Some information about Team Member 4</p>
+            <p style="font-size: 20px; font-weight: bold;">Satya (Project Head ) </p>
+             
             </div>
           </div>
         </div>
