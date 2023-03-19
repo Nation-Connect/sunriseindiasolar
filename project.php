@@ -68,29 +68,13 @@
 			</div>
 		</div>
 	</div>
-	<div class="about-us-area">
-		<div class="container">
-			<div class="row">
-				<div class="">
-
-					<div class="row">
-						<div class="col-lg-12 col-md-12 col-12">
-							<div class="single-about">
-								<div class="section-title">
-									<h1 class="text-center mb-5">Site Project</h1>
-
-								</div>
-
-							</div>
-
-						</div>
-						<div class="group" data-lightgallery="group">
-							<div class="row">
+	
 
 
 
 
-					
+
+	<h1> List of Delivered Solar Project </h1>				
 	<table>
 		<thead>
 			<tr>
@@ -324,6 +308,7 @@
 	
         
 			
+
 
 
 
