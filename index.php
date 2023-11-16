@@ -347,7 +347,7 @@
             <img src="img/sunriseteam/sunriseindiaomnarayan.jpeg" class="card-img-top" alt="Team Member 1">
             <div class="card-body">
         
-              <p style="font-size: 20px; font-weight: bold;">Om Narayan (Director) </p>
+              <p style="font-size: 16px; font-weight: bold;">Om Narayan <br> (Joint Director) </p>
               
             </div>
           </div>
@@ -357,7 +357,7 @@
             <img src="img/sunriseteam/sunriseindiasolardirector.jpg" class="card-img-top" alt="Team Member 2">
             <div class="card-body">
              
-            <p style="font-size: 20px; font-weight: bold;">SN Tiwari (Director) </p>
+            <p style="font-size: 16px; font-weight: bold;">SN Tiwari <br> (Director) </p>
 
             </div>
           </div>
@@ -366,15 +366,15 @@
           <div class="card">
             <img src="img/sunriseteam/sunriseindiasolarceo.jpg" class="card-img-top" alt="Team Member 3">
             <div class="card-body">
-            <p style="font-size: 20px; font-weight: bold;">J.N Tiwari (CEO) </p>
+            <p style="font-size: 16px; font-weight: bold;">Jay Narayan Tiwari - COO (Chief operating officer) </p>
             </div>
           </div>
         </div>
         <div class="col-md-3">
           <div class="card">
-            <img src="img/sunriseteam/sunriseindiasolarprojecthead.jpg" class="card-img-top" alt="Team Member 4">
+            <img src="img/sunriseteam/sunriseindiasolarsatya.jpg" class="card-img-top" alt="Team Member 4">
             <div class="card-body">
-            <p style="font-size: 20px; font-weight: bold;">Satya (Project Head ) </p>
+            <p style="font-size: 16px; font-weight: bold;">Satya Narayan Tiwari - CEO (Chief executive officer) </p>
              
             </div>
           </div>
@@ -413,6 +413,12 @@
                 <div class="col d-flex justify-content-center">
                     <div class="brand-style1"><img src="./img/partner/sbpdcl.jpg" alt="brand"></div>
                 </div>
+
+                <div class="col d-flex justify-content-center">
+                    <div class="brand-style1"><img src="./img/partner/transrail.png" alt="brand"></div>
+                </div>
+
+                
                 <div class="col d-flex justify-content-center">
                     <div class="brand-style1"><img src="./img/partner/UNEECOPS_SOLAR_LOGO.png" alt="brand"></div>
                 </div>
@@ -426,6 +432,12 @@
                 <div class="col d-flex justify-content-center">
                     <div class="brand-style1"><img src="./img/partner/husk-logo.png" alt="brand"></div>
                 </div>
+
+                <div class="col d-flex justify-content-center">
+                    <div class="brand-style1"><img src="./img/partner/sbi.png" alt="brand"></div>
+                </div>
+
+
                 <div class="col d-flex justify-content-center">
                     <div class="brand-style1"><img src="./img/partner/powerone.png" alt="brand"></div>
                 </div>
