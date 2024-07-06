@@ -56,6 +56,7 @@
                                 <li class="nav-item"><a class="nav-link" href="solar-water-heater.php">Solar&nbsp;Water&nbsp;Heater</a></li>
                                 <li class="nav-item"><a class="nav-link" href="gallery.php">Gallery</a></li>
                                 <li class="nav-item"><a class="nav-link" href="project.php">Site&nbsp;Project</a></li>
+                                <li class="nav-item"><a class="nav-link" href="manpowerproject.php">Manpower&nbsp;Project</a></li>
                                 <li class="nav-item"><a class="nav-link" href="about.php">About&nbsp;Us</a></li>
                                 <li class="nav-item"><a class="nav-link" href="contact.php">Contact&nbsp;Us</a></li>
                             </ul>
