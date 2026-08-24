@@ -18,8 +18,8 @@
         <div id="pxp-hero-props-carousel-1" class="carousel slide pxp-hero-props-carousel-1" data-ride="carousel"
             data-pause="false">
             <div class="carousel-inner">
-                <div class="carousel-item active"><img width="875" height="360" alt="Solar energy solutions by Sunrise India" title="Solar energy solutions" src="img/banner1.jpg" fetchpriority="high"></div>
-                <div class="carousel-item" data-slide="1"><img width="875" height="360" alt="Solar installations by Sunrise India" title="Solar installations" src="img/banner2.jpg" loading="lazy"></div>
+                <div class="carousel-item active"><img alt="Solar energy solutions by Sunrise India" title="Solar energy solutions" src="img/banner1.jpg" fetchpriority="high"></div>
+                <div class="carousel-item" data-slide="1"><img alt="Solar installations by Sunrise India" title="Solar installations" src="img/banner2.jpg" loading="lazy"></div>
             </div>
             <div class="pxp-carousel-controls">
                 <a class="pxp-carousel-control-prev" role="button" aria-label="Previous banner" data-slide="prev"><i
