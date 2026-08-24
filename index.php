@@ -78,9 +78,9 @@
                         </div>
                         <div class="col-lg-5 col-md-5 col-12">
                             <div class="about-img">
-                                <img class="img" width="800" height="450" src="img/about-us.jpg" alt="Sunrise India solar energy team" loading="lazy" decoding="async">
+                                <img class="img" src="img/about-us.jpg" alt="Sunrise India solar energy team" loading="lazy" decoding="async">
                                 <div class="about-bg">
-                                    <img width="583" height="631" src="img/about-bg.png" alt="" loading="lazy" decoding="async">
+                                    <img src="img/about-bg.png" alt="" loading="lazy" decoding="async">
                                 </div>
                             </div>
 
@@ -120,37 +120,37 @@
 
                     <div class="popular">
                         <div class="item">
-                            <div class="box"><a href="solar-rooftop.php"><img width="300" height="300" src="img/inverter1.jpg" title="Solar rooftop system" alt="Solar rooftop system" loading="lazy" decoding="async">
+                            <div class="box"><a href="solar-rooftop.php"><img src="img/inverter1.jpg" title="Solar rooftop system" alt="Solar rooftop system" loading="lazy" decoding="async">
                                     <div class="detail">Solar Rooftop
                                 </a></div>
                         </div>
                     </div>
                     <div class="item">
-                        <div class="box"><a href="solar-street-light.php"><img width="1500" height="1500" src="img/solarstreetlight.jpg" title="Solar street light" alt="Solar street light" loading="lazy" decoding="async">
+                        <div class="box"><a href="solar-street-light.php"><img src="img/solarstreetlight.jpg" title="Solar street light" alt="Solar street light" loading="lazy" decoding="async">
                                 <div class="detail">Solar Steet Light
                             </a></div>
                     </div>
                 </div>
                 <div class="item">
-                    <div class="box"><a href="contact.php"><img width="400" height="400" src="img/windmill.jpg" title="Wind energy project" alt="Wind energy project" loading="lazy" decoding="async">
+                    <div class="box"><a href="contact.php"><img src="img/windmill.jpg" title="Wind energy project" alt="Wind energy project" loading="lazy" decoding="async">
                             <div class="detail">Wind mill
                         </a></div>
                 </div>
             </div>
             <div class="item">
-                <div class="box"><a href="solar-water-heater.php"><img width="500" height="500" src="img/solarwaterpumpset.jpg" title="Solar water pump set" alt="Solar water pump set" loading="lazy" decoding="async">
+                <div class="box"><a href="solar-water-heater.php"><img src="img/solarwaterpumpset.jpg" title="Solar water pump set" alt="Solar water pump set" loading="lazy" decoding="async">
                         <div class="detail"> Solar Water Pump Set
                     </a></div>
             </div>
         </div>
         <div class="item">
-            <div class="box"><a href="contact.php"><img width="500" height="500" src="img/solarservicing.jpg" title="Renewable project maintenance" alt="Renewable project maintenance" loading="lazy" decoding="async">
+            <div class="box"><a href="contact.php"><img src="img/solarservicing.jpg" title="Renewable project maintenance" alt="Renewable project maintenance" loading="lazy" decoding="async">
                     <div class="detail">AMC of Renewable Project
                 </a></div>
         </div>
     </div>
     <div class="item">
-        <div class="box"><a href="solar-water-pump.php"><img width="500" height="500" src="img/solarwaterheater.jpg" title="Solar water heater" alt="Solar water heater" loading="lazy" decoding="async">
+        <div class="box"><a href="solar-water-pump.php"><img src="img/solarwaterheater.jpg" title="Solar water heater" alt="Solar water heater" loading="lazy" decoding="async">
                 <div class="detail">Solar Water Heater
             </a></div>
     </div>
