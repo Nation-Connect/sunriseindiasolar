@@ -78,7 +78,7 @@
                         </div>
                         <div class="col-lg-5 col-md-5 col-12">
                             <div class="about-img">
-                                <img class="img" src="img/about-us.jpg" alt="Sunrise India solar energy team" loading="lazy" decoding="async">
+                                <img class="img" src="img/about-us.webp" alt="Sunrise India solar energy team" loading="lazy" decoding="async">
                                 <div class="about-bg">
                                     <img src="img/about-bg.png" alt="" loading="lazy" decoding="async">
                                 </div>
@@ -126,13 +126,13 @@
                         </div>
                     </div>
                     <div class="item">
-                        <div class="box"><a href="solar-street-light.php"><img src="img/solarstreetlight.jpg" title="Solar street light" alt="Solar street light" loading="lazy" decoding="async">
+                        <div class="box"><a href="solar-street-light.php"><img src="img/solarstreetlight.webp" title="Solar street light" alt="Solar street light" loading="lazy" decoding="async">
                                 <div class="detail">Solar Steet Light
                             </a></div>
                     </div>
                 </div>
                 <div class="item">
-                    <div class="box"><a href="contact.php"><img src="img/windmill.jpg" title="Wind energy project" alt="Wind energy project" loading="lazy" decoding="async">
+                    <div class="box"><a href="contact.php"><img src="img/windmill.webp" title="Wind energy project" alt="Wind energy project" loading="lazy" decoding="async">
                             <div class="detail">Wind mill
                         </a></div>
                 </div>
