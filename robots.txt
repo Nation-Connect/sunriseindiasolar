@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+Disallow: /PHPMailer/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /images/
+Disallow: /js/
+Disallow: /mail.php
+
+Sitemap: https://www.sunriseindiasolar.com/sitemap.xml
