@@ -24,10 +24,10 @@
                         <p class="copyright"> Copyright © <?= date('Y') ?> All Rights Reserved By <a href="https://www.sunriseindiasolar.com
 ">SUNRISE INDIA</a></p>
                         <div class="socials clearfix">
-                            <div class="icon"><a href="https://www.facebook.com/sunriseindiasolar"><i class='fa fa-facebook'></i></a></div>
-                            <div class="icon"><a href="https://www.instagram.com/"><i class='fa fa-instagram'></i></a></div>
-                            <div class="icon"><a href="https://twitter.com/sunriseindiasolar"><i class='fa fa-twitter'></i></a></div>
-                            <div class="icon"><a href="https://youtube.com/"><i class='fa fa-youtube'></i></a></div>
+                            <div class="icon"><a href="https://www.facebook.com/sunriseindiasolar" aria-label="Sunrise India on Facebook"><i class='fa fa-facebook'></i></a></div>
+                            <div class="icon"><a href="https://www.instagram.com/" aria-label="Sunrise India on Instagram"><i class='fa fa-instagram'></i></a></div>
+                            <div class="icon"><a href="https://twitter.com/sunriseindiasolar" aria-label="Sunrise India on Twitter"><i class='fa fa-twitter'></i></a></div>
+                            <div class="icon"><a href="https://youtube.com/" aria-label="Sunrise India on YouTube"><i class='fa fa-youtube'></i></a></div>
                         </div>
                     </div>
                 </div>

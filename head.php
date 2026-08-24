@@ -1,8 +1,8 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="" />
-<meta name="keywords" content="" />
+<meta name="description" content="Sunrise India provides solar rooftop, street light, water pump, water heater, and renewable energy solutions across Bihar and Jharkhand." />
+<meta name="keywords" content="solar energy, solar rooftop, solar street light, solar water pump, solar water heater, Bihar, Jharkhand" />
 <meta name="Author" content="SUNRISE INDIA" />
 <meta name="Language" content="English" />
 <meta name="robots" content="Index, follow" />
@@ -26,7 +26,7 @@
 <link rel="icon" type="image/png" sizes="96x96" href="./img/favicon/favicon-96x96.png">
 <link rel="icon" type="image/png" sizes="16x16" href="./img/favicon/favicon-16x16.png">
 <link rel="manifest" href="./img/favicon/manifest.json">
-<link rel="canonical" href="http://sunriseindiasolarsolar.com//" />
+<link rel="canonical" href="https://www.sunriseindiasolar.com/" />
 <link rel="shortcut icon" href="img/favicon.png">
 <link rel="stylesheet" href="css/icomoon.css" />
 <link rel="stylesheet" href="css/bootstrap.min.css" />

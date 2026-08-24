@@ -13,17 +13,18 @@
     <?php
     include 'header.php';
     ?>
+    <main>
     <div class="pxp-hero">
         <div id="pxp-hero-props-carousel-1" class="carousel slide pxp-hero-props-carousel-1" data-ride="carousel"
             data-pause="false">
             <div class="carousel-inner">
-                <div class="carousel-item active"><img alt="" title="" src="img/banner1.jpg"></div>
-                <div class="carousel-item" data-slide="1"><img alt="" title="" src="img/banner2.jpg"></div>
+                <div class="carousel-item active"><img alt="Solar energy solutions by Sunrise India" title="Solar energy solutions" src="img/banner1.jpg" fetchpriority="high"></div>
+                <div class="carousel-item" data-slide="1"><img alt="Solar installations by Sunrise India" title="Solar installations" src="img/banner2.jpg" loading="lazy"></div>
             </div>
             <div class="pxp-carousel-controls">
-                <a class="pxp-carousel-control-prev" role="button" data-slide="prev"><i
+                <a class="pxp-carousel-control-prev" role="button" aria-label="Previous banner" data-slide="prev"><i
                         class='fa fa-arrow-left'></i></a>
-                <a class="pxp-carousel-control-next" role="button" data-slide="next"><i
+                <a class="pxp-carousel-control-next" role="button" aria-label="Next banner" data-slide="next"><i
                         class='fa fa-arrow-right'></i></a>
             </div>
         </div>
@@ -77,9 +78,9 @@
                         </div>
                         <div class="col-lg-5 col-md-5 col-12">
                             <div class="about-img">
-                                <img class="img" src="img/about-us.jpg" alt="">
+                                <img class="img" src="img/about-us.jpg" alt="Sunrise India solar energy team" loading="lazy" decoding="async">
                                 <div class="about-bg">
-                                    <img src="img/about-bg.png" alt="">
+                                    <img src="img/about-bg.png" alt="" loading="lazy" decoding="async">
                                 </div>
                             </div>
 
@@ -111,7 +112,7 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-md-3 product-sell">
-                    <h3 class="text-white">Most Common Service</h3>
+                    <h2 class="text-white">Most Common Service</h2>
                     <p>We, Sunrise India at Bihar and Jharkhand are a leading Service Provider of solar energy systems
                         and other products.</p>
                 </div>
@@ -119,37 +120,37 @@
 
                     <div class="popular">
                         <div class="item">
-                            <div class="box"><a href="solar-rooftop.php"><img src="img/inverter1.jpg" title="" alt="">
+                            <div class="box"><a href="solar-rooftop.php"><img src="img/inverter1.jpg" title="Solar rooftop system" alt="Solar rooftop system" loading="lazy" decoding="async">
                                     <div class="detail">Solar Rooftop
                                 </a></div>
                         </div>
                     </div>
                     <div class="item">
-                        <div class="box"><a href="solar-street-light.php"><img src="img/solarstreetlight.jpg" title="" alt="">
+                        <div class="box"><a href="solar-street-light.php"><img src="img/solarstreetlight.jpg" title="Solar street light" alt="Solar street light" loading="lazy" decoding="async">
                                 <div class="detail">Solar Steet Light
                             </a></div>
                     </div>
                 </div>
                 <div class="item">
-                    <div class="box"><a href="#"><img src="img/windmill.jpg" title="" alt="">
+                    <div class="box"><a href="contact.php"><img src="img/windmill.jpg" title="Wind energy project" alt="Wind energy project" loading="lazy" decoding="async">
                             <div class="detail">Wind mill
                         </a></div>
                 </div>
             </div>
             <div class="item">
-                <div class="box"><a href="solar-water-heater.php"><img src="img/solarwaterpumpset.jpg" title="" alt="">
+                <div class="box"><a href="solar-water-heater.php"><img src="img/solarwaterpumpset.jpg" title="Solar water pump set" alt="Solar water pump set" loading="lazy" decoding="async">
                         <div class="detail"> Solar Water Pump Set
                     </a></div>
             </div>
         </div>
         <div class="item">
-            <div class="box"><a href="#"><img src="img/solarservicing.jpg" title="" alt="">
+            <div class="box"><a href="contact.php"><img src="img/solarservicing.jpg" title="Renewable project maintenance" alt="Renewable project maintenance" loading="lazy" decoding="async">
                     <div class="detail">AMC of Renewable Project
                 </a></div>
         </div>
     </div>
     <div class="item">
-        <div class="box"><a href="solar-water-pump.php"><img src="img/solarwaterheater.jpg" title="" alt="">
+        <div class="box"><a href="solar-water-pump.php"><img src="img/solarwaterheater.jpg" title="Solar water heater" alt="Solar water heater" loading="lazy" decoding="async">
                 <div class="detail">Solar Water Heater
             </a></div>
     </div>
@@ -172,14 +173,14 @@
                 <div class="col-md-3">
                     <div class="service-1 text-center">
                         <div class="bg_overlay">
-                            <img src="img/1.png">
+                            <img src="img/1.png" alt="" loading="lazy" decoding="async">
                             <p class="pera">Renewable Energy Solution Providers</p>
                             <hr class="divider_2_40 bottommargin_25">
                             <div class="service-content">
 
                                 <p>We are one of the leading renewable energy solution providers.
                                     We assure reliable .</p>
-                                <a href="#">View More</a>
+                                <a href="contact.php">View More</a>
                             </div>
                         </div>
                     </div>
@@ -188,14 +189,14 @@
                 <div class="col-md-3">
                     <div class="service-1 text-center" style="background-image: url(img/service2.jpg)">
                         <div class="bg_overlay">
-                            <img src="img/2.png">
+                            <img src="img/2.png" alt="" loading="lazy" decoding="async">
                             <p class="pera">Rooftop Solar Power Plant Consultants</p>
                             <hr class="divider_2_40 bottommargin_25">
                             <div class="service-content">
 
                                 <p>Rooftop solar power plant consultants, make sure that you are completely satisfied
                                     with us. </p>
-                                <a href="#">View More</a>
+                                <a href="contact.php">View More</a>
                             </div>
                         </div>
                     </div>
@@ -204,14 +205,14 @@
                 <div class="col-md-3">
                     <div class="service-1 text-center" style="background-image: url(img/service3.jpg)">
                         <div class="bg_overlay">
-                            <img src="img/3.png">
+                            <img src="img/3.png" alt="" loading="lazy" decoding="async">
                             <p class="pera">Solar Energy Consultants</p>
                             <hr class="divider_2_40 bottommargin_25">
                             <div class="service-content">
 
                                 <p>Due to enormous knowledge in this field, we are able to provide
                                     best solar energy services as well as consultation . </p>
-                                <a href="#">View More</a>
+                                <a href="contact.php">View More</a>
                             </div>
                         </div>
                     </div>
@@ -220,14 +221,14 @@
                 <div class="col-md-3">
                     <div class="service-1 text-center" style="background-image: url(img/service4.jpg)">
                         <div class="bg_overlay">
-                            <img src="img/4.png">
+                            <img src="img/4.png" alt="" loading="lazy" decoding="async">
                             <p class="pera">Solar Net Metering Services</p>
                             <hr class="divider_2_40 bottommargin_25">
                             <div class="service-content">
 
                                 <p>We provide the best solar net metering services that measures
                                     both energy import & export at reasonable cost. </p>
-                                <a href="#">View More</a>
+                                <a href="contact.php">View More</a>
                             </div>
                         </div>
                     </div>
@@ -236,14 +237,14 @@
                 <div class="col-md-3">
                     <div class="service-1 text-center" style="background-image: url(img/service5.jpg)">
                         <div class="bg_overlay">
-                            <img src="img/5.png">
+                            <img src="img/5.png" alt="" loading="lazy" decoding="async">
                             <p class="pera">Solar Rooftop System Subsidy Service Providers</p>
                             <hr class="divider_2_40 bottommargin_25">
                             <div class="service-content">
 
                                 <p>We are one of the recognized and most popular solar rooftop system subsidy
                                     service providers. </p>
-                                <a href="#">View More</a>
+                                <a href="contact.php">View More</a>
                             </div>
                         </div>
                     </div>
@@ -252,14 +253,14 @@
                 <div class="col-md-3">
                     <div class="service-1 text-center" style="background-image: url(img/service2.jpg)">
                         <div class="bg_overlay">
-                            <img src="img/2.png">
+                            <img src="img/2.png" alt="" loading="lazy" decoding="async">
                             <p class="pera">Custom Solar System Services</p>
                             <hr class="divider_2_40 bottommargin_25">
                             <div class="service-content">
 
                                 <p>We offer custom solar solutions service to the customers from
                                     residential and commercial area.</p>
-                                <a href="#">View More</a>
+                                <a href="contact.php">View More</a>
                             </div>
                         </div>
                     </div>
@@ -268,14 +269,14 @@
                 <div class="col-md-3">
                     <div class="service-1 text-center" style="background-image: url(img/service2.jpg)">
                         <div class="bg_overlay">
-                            <img src="img/3.png">
+                            <img src="img/3.png" alt="" loading="lazy" decoding="async">
                             <p class="pera">Solar Power Plant Repairs</p>
                             <hr class="divider_2_40 bottommargin_25">
                             <div class="service-content">
 
                                 <p>Due to enormous knowledge in this field, we are able to provide best
                                     solar energy consulting services. </p>
-                                <a href="#">View More</a>
+                                <a href="contact.php">View More</a>
                             </div>
                         </div>
                     </div>
@@ -284,14 +285,14 @@
                 <div class="col-md-3">
                     <div class="service-1 text-center" style="background-image: url(img/service1.jpg)">
                         <div class="bg_overlay">
-                            <img src="img/4.png">
+                            <img src="img/4.png" alt="" loading="lazy" decoding="async">
                             <p class="pera">Solar Power Plant AMC</p>
                             <hr class="divider_2_40 bottommargin_25">
                             <div class="service-content">
 
                                 <p>We are also engaged in providing quality solar
                                     power plant AMC services at very cost effective rates. </p>
-                                <a href="#">View More</a>
+                                <a href="contact.php">View More</a>
                             </div>
                         </div>
                     </div>
@@ -314,18 +315,18 @@
                         <div class="testimonial-box">
                             <p> My blessing and best wishes are always with you and your company.
                                 i am fully satisfied with your rooftop solar install at our home.</p>
-                            <img src="img/user1.jpg">
+                            <img src="img/user1.jpg" alt="Customer testimonial" loading="lazy" decoding="async">
                             <span class="name">Shivani Roperia</span>
                         </div>
                         <div class="testimonial-box">
                             <p> Highly appriciable work done By Sunrise India . all engineers and Technicians are
                                 unique blend of competence with huminity. I higly recommend this team. </p>
-                            <img src="img/user1.jpg">
+                            <img src="img/user1.jpg" alt="Customer testimonial" loading="lazy" decoding="async">
                             <span class="name">usha kaler</span>
                         </div>
                         <div class="testimonial-box">
                             <p>We Congratulate the entire team of sunrise india for their Excellent work done.</p>
-                            <img src="img/user1.jpg">
+                            <img src="img/user1.jpg" alt="Customer testimonial" loading="lazy" decoding="async">
                             <span class="name">nitika dalal</span>
                         </div>
                     </div>
@@ -455,6 +456,8 @@
             </div>
         </div>
     </div>
+
+    </main>
 
     <?php
     include 'footer.php';
