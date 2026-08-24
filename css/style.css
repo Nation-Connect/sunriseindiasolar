@@ -396,7 +396,7 @@ header.header.is-sticky .topnav .social li {
     font-family: FontAwesome;
     line-height: 30px;
     float: right;
-    color: #44fff4242;
+    color: rgba(255, 255, 255, 0.25);
     padding-left: 20px;
 }
 

@@ -18,7 +18,7 @@
                 <div class="col-lg-12">
                     <div class="breadcrumbs">
                         <a href="index.php">Home <i class="fa fa-angle-right"></i></a>
-                        <a href="#">Solar Inverters</a>
+                        <a href="solar-street-light.php" aria-current="page">Solar Inverters</a>
                     </div>
                 </div>
             </div>

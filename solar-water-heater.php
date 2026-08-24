@@ -19,7 +19,7 @@
                 <div class="col-lg-12">
                     <div class="breadcrumbs">
                         <a href="index.php">Home <i class="fa fa-angle-right"></i></a>
-                        <a href="#">Solar Water Heater</a>
+                        <a href="solar-water-heater.php" aria-current="page">Solar Water Heater</a>
                     </div>
                 </div>
             </div>

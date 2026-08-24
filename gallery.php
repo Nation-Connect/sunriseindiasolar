@@ -18,7 +18,7 @@
 				<div class="col-lg-12">
 					<div class="breadcrumbs">
 						<a href="index.php">Home <i class="fa fa-angle-right"></i></a>
-						<a href="#">Gallery</a>
+											   <a href="gallery.php" aria-current="page">Gallery</a>
 					</div>
 				</div>
 			</div>

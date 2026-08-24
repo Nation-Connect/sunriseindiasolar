@@ -18,7 +18,7 @@
                 <div class="col-lg-12">
                     <div class="breadcrumbs">
                         <a href="index.php">Home <i class="fa fa-angle-right"></i></a>
-                        <a href="#">Contact Us</a>
+                        <a href="contact.php" aria-current="page">Contact Us</a>
                     </div>
                 </div>
             </div>

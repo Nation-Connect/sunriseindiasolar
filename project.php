@@ -62,7 +62,7 @@
 				<div class="col-lg-12">
 					<div class="breadcrumbs">
 						<a href="index.php">Home <i class="fa fa-angle-right"></i></a>
-						<a href="#">Solar Projects in Bihar</a>
+                                               <a href="project.php" aria-current="page">Solar Projects in Bihar</a>
 					</div>
 				</div>
 			</div>

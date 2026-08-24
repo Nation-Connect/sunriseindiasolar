@@ -18,7 +18,7 @@
                 <div class="col-lg-12">
                     <div class="breadcrumbs">
                         <a href="index.php">Home <i class="fa fa-angle-right"></i></a>
-                        <a href="#">Solar Panel</a>
+                        <a href="solar-rooftop.php" aria-current="page">Solar Panel</a>
                     </div>
                 </div>
             </div>
